@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Shotaro Ishihara</title>
+    <link>https://upura.github.io/publication-type/0/</link>
+      <atom:link href="https://upura.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://upura.github.io/img/avatar.png</url>
+      <title>0</title>
+      <link>https://upura.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Kaggleは実務の役に立つ？ データサイエンティストがKaggleから学んだ「教師あり学習」の勘どころ</title>
+      <link>https://upura.github.io/publication/200423_engineer_hub/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200423_engineer_hub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

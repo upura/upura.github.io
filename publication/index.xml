@@ -5,7 +5,7 @@
     <link>https://upura.github.io/publication/</link>
       <atom:link href="https://upura.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Publications</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Kaggleは実務の役に立つ？ データサイエンティストがKaggleから学んだ「教師あり学習」の勘どころ</title>
+      <link>https://upura.github.io/publication/200423_engineer_hub/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200423_engineer_hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &#34;Kaggle&#34;</title>
       <link>https://upura.github.io/publication/200320_cj/</link>
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/publication/200320_cj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PythonではじめるKaggleスタートブック</title>
+      <link>https://upura.github.io/publication/200317_python_kaggle/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200317_python_kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>機械学習の性能を「正しく」見積もる</title>
+      <link>https://upura.github.io/publication/20190922_nikkei_dev_book/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/20190922_nikkei_dev_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜</title>
+      <link>https://upura.github.io/publication/20190414_nikkei_dev_book/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/20190414_nikkei_dev_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>機械学習を用いた日経電子版Proのユーザ分析</title>
+      <link>https://upura.github.io/publication/20181008_nikkei_dev_book/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/20181008_nikkei_dev_book/</guid>
       <description></description>
     </item>
     
