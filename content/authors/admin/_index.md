@@ -22,7 +22,7 @@ bio: Data Scientist at Japanse Media Company
 
 interests:
 - Journalism
-- Machine Learning Competitions
+- Machine Learning Competition
 - Natural Language Processing
 
 education:
@@ -37,7 +37,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: blog
-  icon_pack: blog
+  icon_pack: fas
   link: https://upura.hatenablog.com/
 - icon: twitter
   icon_pack: fab
@@ -45,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/upura
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/sishihara
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -59,11 +62,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shotaro Ishihara is a data scientist at Japanese media company, engaged in data analysis and service development. While studying computer science at university, he was also involved in [a university newspaper](http://www.todaishimbun.org/). He has participated in machine learning competitions and has experiences of getting first place on [a Kaggle competition](https://www.kaggle.com/c/petfinder-adoption-prediction), hosting a [Kaggle Days Tokyo](https://kaggledays.com/events/tokyo2019/) competition and publishing [a technical book for beginners](https://www.amazon.co.jp/dp/4065190061).
