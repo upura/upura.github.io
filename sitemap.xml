@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://upura.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://upura.github.io/authors/</loc>
   </url>
   
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://upura.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/</loc>
   </url>
   
   <url>
