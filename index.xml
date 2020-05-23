@@ -36,9 +36,9 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>【Kaggleスタートブック発売記念】 ゲスト u&#43;&#43; さん</title>
-      <link>https://upura.github.io/talk/200228_google_qa/</link>
+      <link>https://upura.github.io/talk/200316_regonn_curry_fm/</link>
       <pubDate>Mon, 16 Mar 2020 20:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/talk/200228_google_qa/</guid>
+      <guid>https://upura.github.io/talk/200316_regonn_curry_fm/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -58,9 +58,141 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     
     <item>
       <title>NLPコンペの知見を実務に活かすために</title>
-      <link>https://upura.github.io/talk/200316_regonn_curry_fm/</link>
+      <link>https://upura.github.io/talk/200228_google_qa/</link>
       <pubDate>Fri, 28 Feb 2020 19:30:00 +0000</pubDate>
-      <guid>https://upura.github.io/talk/200316_regonn_curry_fm/</guid>
+      <guid>https://upura.github.io/talk/200228_google_qa/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KaggleとRコンペの紹介</title>
+      <link>https://upura.github.io/talk/191207_japanr/</link>
+      <pubDate>Sat, 07 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/191207_japanr/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kaggle Grandmasterに聞く！－トップデータサイエンティストの過去・現在・未来－</title>
+      <link>https://upura.github.io/talk/191017_datascientist/</link>
+      <pubDate>Thu, 17 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/191017_datascientist/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>技術力で世界と戦う 機械学習コンペティション「Kaggle」の魅力</title>
+      <link>https://upura.github.io/talk/190907_study_aichi/</link>
+      <pubDate>Sat, 07 Sep 2019 12:30:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/190907_study_aichi/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>なんでデータサイエンティストやってるの？</title>
+      <link>https://upura.github.io/talk/190906_nand/</link>
+      <pubDate>Fri, 06 Sep 2019 19:30:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/190906_nand/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>機械学習を用いた大相撲千秋楽の勝敗予想</title>
+      <link>https://upura.github.io/talk/190824_spoana/</link>
+      <pubDate>Sat, 24 Aug 2019 14:30:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/190824_spoana/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PetFinder 2nd Place Solution</title>
+      <link>https://upura.github.io/talk/190713_kaggle_tokyo_meetup/</link>
+      <pubDate>Sat, 13 Jul 2019 13:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/190713_kaggle_tokyo_meetup/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

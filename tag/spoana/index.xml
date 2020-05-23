@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spoana | Shotaro Ishihara</title>
+    <link>https://upura.github.io/tag/spoana/</link>
+      <atom:link href="https://upura.github.io/tag/spoana/index.xml" rel="self" type="application/rss+xml" />
+    <description>spoana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2019 14:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://upura.github.io/img/avatar.png</url>
+      <title>spoana</title>
+      <link>https://upura.github.io/tag/spoana/</link>
+    </image>
+    
+    <item>
+      <title>機械学習を用いた大相撲千秋楽の勝敗予想</title>
+      <link>https://upura.github.io/talk/190824_spoana/</link>
+      <pubDate>Sat, 24 Aug 2019 14:30:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/190824_spoana/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
