@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist at Japanse Media Company
+bio: Data Scientist at Japanese Media Company
 
 interests:
 - Journalism
@@ -48,6 +48,9 @@ social:
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/sishihara
+- icon: youtube-square
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
