@@ -3,15 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://upura.github.io/talk/</loc>
+    <lastmod>2020-05-23T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/talk/200523_tokyor/</loc>
+    <lastmod>2020-05-23T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/</loc>
+    <lastmod>2020-05-23T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/tags/</loc>
+    <lastmod>2020-05-23T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/tag/tokyor/</loc>
+    <lastmod>2020-05-23T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/tag/podcast/</loc>
+    <lastmod>2020-03-16T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/talk/200228_google_qa/</loc>
+    <lastmod>2020-03-16T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/tag/kaggle/</loc>
+    <lastmod>2020-02-28T19:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/talk/200316_regonn_curry_fm/</loc>
+    <lastmod>2020-02-28T19:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://upura.github.io/authors/</loc>
   </url>
   
   <url>
     <loc>https://upura.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/post/</loc>
   </url>
   
   <url>
@@ -23,19 +64,7 @@
   </url>
   
   <url>
-    <loc>https://upura.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://upura.github.io/author/shotaro-ishihara/</loc>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/tags/</loc>
   </url>
   
 </urlset>
