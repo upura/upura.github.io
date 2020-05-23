@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: Proceedings of Computation + Journalism Symposium 2020. Boston, MA, USA.
 # publication_short: In *STC*
 
-abstract: Proceedings of Computation + Journalism Symposium 2020. Boston, MA, USA. https://cj2020.northeastern.edu/research-papers/
+abstract: Proceedings of Computation + Journalism Symposium 2020. Boston, MA, USA.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: URL
+  url: https://cj2020.northeastern.edu/research-papers/
 url_pdf: https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_24.pdf
 # url_code: '#'
 # url_dataset: '#'

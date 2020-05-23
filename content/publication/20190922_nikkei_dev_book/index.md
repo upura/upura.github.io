@@ -1,10 +1,8 @@
 ---
-title: "コミュニティの特徴を考慮した見守りサービス設計手法の開発"
+title: "機械学習の性能を「正しく」見積もる"
 authors:
-- 稗方和夫
-- 満行泰河
 - 石原祥太郎
-date: "2017-06-19T00:00:00Z"
+date: "2019-09-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,13 +12,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: 第８回高齢社会デザイン（ASD）研究発表会講演論文集, 2017年6月19日.
+publication: Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日.
 # publication_short: In *STC*
 
-abstract: 第８回高齢社会デザイン（ASD）研究発表会講演論文集, 2017年6月19日.
+abstract: Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -30,9 +28,9 @@ tags:
 featured: false
 
 links:
-- name: URL
-  url: http://www.ipsj.or.jp/kenkyukai/event/asd8.html
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# - name: URL
+#   url: https://note.com/nikkei_staff/n/neeae5e42c9f7
+# url_pdf: https://cpb-us-w2.wpmucdn.com/express.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_24.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

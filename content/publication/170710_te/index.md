@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: Proceedings of International Conference on Transdisciplinary Engineering, Singapore.
 # publication_short: In *STC*
 
-abstract: Proceedings of International Conference on Transdisciplinary Engineering, Singapore. http://ebooks.iospress.nl/volumearticle/46762
+abstract: Proceedings of International Conference on Transdisciplinary Engineering, Singapore.
 
 # Summary. An optional shortened abstract.
 summary: ''
