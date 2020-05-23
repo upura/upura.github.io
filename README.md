@@ -6,7 +6,7 @@ Forked from: https://github.com/sourcethemes/academic-kickstart
 ## How to deploy
 
 ```bash
-hogo
+hugo
 cd public
 git add .
 git commit -m "Build website"
