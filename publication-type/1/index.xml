@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Shotaro Ishihara</title>
-    <link>https://upura.github.io/publication/</link>
-      <atom:link href="https://upura.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>1 | Shotaro Ishihara</title>
+    <link>https://upura.github.io/publication-type/1/</link>
+      <atom:link href="https://upura.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
-      <title>Publications</title>
-      <link>https://upura.github.io/publication/</link>
+      <title>1</title>
+      <link>https://upura.github.io/publication-type/1/</link>
     </image>
     
     <item>
@@ -25,22 +25,6 @@
       <link>https://upura.github.io/publication/170710_te/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/publication/170710_te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コミュニティの特徴を考慮した見守りサービス設計手法の開発</title>
-      <link>https://upura.github.io/publication/170619_asd/</link>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/publication/170619_asd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コミュニティの特徴を考慮した見守りサービス設計手法の開発</title>
-      <link>https://upura.github.io/publication/170324_graduation_thesis/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/publication/170324_graduation_thesis/</guid>
       <description></description>
     </item>
     

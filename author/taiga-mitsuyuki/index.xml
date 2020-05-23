@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiga Mitsuyuki | Shotaro Ishihara</title>
+    <link>https://upura.github.io/author/taiga-mitsuyuki/</link>
+      <atom:link href="https://upura.github.io/author/taiga-mitsuyuki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taiga Mitsuyuki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://upura.github.io/img/avatar.png</url>
+      <title>Taiga Mitsuyuki</title>
+      <link>https://upura.github.io/author/taiga-mitsuyuki/</link>
+    </image>
+    
+    <item>
+      <title>Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics</title>
+      <link>https://upura.github.io/publication/170710_te/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/170710_te/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
