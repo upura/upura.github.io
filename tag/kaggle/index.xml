@@ -188,5 +188,52 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 </description>
     </item>
     
+    <item>
+      <title>Data Science Competition</title>
+      <link>https://upura.github.io/projects/data_science_competition/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/data_science_competition/</guid>
+      <description>&lt;h1 id=&#34;kaggle&#34;&gt;Kaggle&lt;/h1&gt;
+&lt;p&gt;Competition Master / Notebooks Expert / Discussion Expert
+&lt;a href=&#34;https://www.kaggle.com/sishihara&#34;&gt;https://www.kaggle.com/sishihara&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/petfinder-adoption-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PetFinder.my Adoption Prediction&lt;/a&gt; 1st, Gold (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jigsaw Unintended Bias in Toxicity Classification&lt;/a&gt; 32nd, Silver (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/santander-value-prediction-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Santander Value Prediction Challenge&lt;/a&gt; 85th, Silver (Solo)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/LANL-Earthquake-Prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANL Earthquake Prediction&lt;/a&gt; 212th, Silver (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TalkingData AdTracking Fraud Detection Challenge&lt;/a&gt; 325th, Bronze (Solo)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/deepfake-detection-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deepfake Detection Challenge&lt;/a&gt;, 190th, Bronze (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;signate&#34;&gt;SIGNATE&lt;/h1&gt;
+&lt;p&gt;Expert
+&lt;a href=&#34;https://signate.jp/profile/history&#34;&gt;https://signate.jp/profile/history&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://signate.jp/competitions/158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定&lt;/a&gt; 3rd (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nishika&#34;&gt;Nishika&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nishika.com/competitions/4/summary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;財務・非財務情報を活用した株主価値予測&lt;/a&gt; 3rd (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;atcoder&#34;&gt;AtCoder&lt;/h1&gt;
+&lt;p&gt;Highest: Light Blue
+&lt;a href=&#34;https://atcoder.jp/users/upura&#34;&gt;https://atcoder.jp/users/upura&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;「
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;」（エンジニアリング部門）準優勝, 2018年10月6〜7日.&lt;/li&gt;
+&lt;li&gt;「
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/01/29/200000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;オレシカナイトデータコンペティションvol.2&lt;/a&gt;」準優勝, 2019年1月26日.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

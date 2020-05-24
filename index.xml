@@ -103,6 +103,16 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+      <title>Weekly Kaggle News</title>
+      <link>https://upura.github.io/projects/weekly_kaggle_news/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/weekly_kaggle_news/</guid>
+      <description>&lt;p&gt;Kaggler-created weekly news blog that&amp;rsquo;s been officially 
+&lt;a href=&#34;https://twitter.com/kaggle/status/1214931423003414530?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KaggleとRコンペの紹介</title>
       <link>https://upura.github.io/talk/191207_japanr/</link>
       <pubDate>Sat, 07 Dec 2019 13:00:00 +0000</pubDate>
@@ -365,11 +375,23 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
       <link>https://upura.github.io/projects/spoana/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/spoana/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;This is a community for sports analysts and those interested in sports data analysis.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/02/25/121000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #1&lt;/a&gt;, Feb 24th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/05/12/222331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #2&lt;/a&gt;, May 12th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/06/30/215844&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #3&lt;/a&gt;, Jun 30th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/08/24/214442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #4&lt;/a&gt;, Aug 24th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/11/02/220842&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #5&lt;/a&gt;, Nov 2nd, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/02/17/120725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #6&lt;/a&gt;, Frb 16th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/04/17/190500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #7&lt;/a&gt;, Apr 16th, 2020.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -492,6 +514,71 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+      <title>Data Science Competition</title>
+      <link>https://upura.github.io/projects/data_science_competition/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/data_science_competition/</guid>
+      <description>&lt;h1 id=&#34;kaggle&#34;&gt;Kaggle&lt;/h1&gt;
+&lt;p&gt;Competition Master / Notebooks Expert / Discussion Expert
+&lt;a href=&#34;https://www.kaggle.com/sishihara&#34;&gt;https://www.kaggle.com/sishihara&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/petfinder-adoption-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PetFinder.my Adoption Prediction&lt;/a&gt; 1st, Gold (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jigsaw Unintended Bias in Toxicity Classification&lt;/a&gt; 32nd, Silver (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/santander-value-prediction-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Santander Value Prediction Challenge&lt;/a&gt; 85th, Silver (Solo)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/LANL-Earthquake-Prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LANL Earthquake Prediction&lt;/a&gt; 212th, Silver (Team)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TalkingData AdTracking Fraud Detection Challenge&lt;/a&gt; 325th, Bronze (Solo)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.kaggle.com/c/deepfake-detection-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deepfake Detection Challenge&lt;/a&gt;, 190th, Bronze (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;signate&#34;&gt;SIGNATE&lt;/h1&gt;
+&lt;p&gt;Expert
+&lt;a href=&#34;https://signate.jp/profile/history&#34;&gt;https://signate.jp/profile/history&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://signate.jp/competitions/158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定&lt;/a&gt; 3rd (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;nishika&#34;&gt;Nishika&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nishika.com/competitions/4/summary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;財務・非財務情報を活用した株主価値予測&lt;/a&gt; 3rd (Solo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;atcoder&#34;&gt;AtCoder&lt;/h1&gt;
+&lt;p&gt;Highest: Light Blue
+&lt;a href=&#34;https://atcoder.jp/users/upura&#34;&gt;https://atcoder.jp/users/upura&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;「
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;」（エンジニアリング部門）準優勝, 2018年10月6〜7日.&lt;/li&gt;
+&lt;li&gt;「
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/01/29/200000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;オレシカナイトデータコンペティションvol.2&lt;/a&gt;」準優勝, 2019年1月26日.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Articles &amp; YouTube &amp; Slides</title>
+      <link>https://upura.github.io/projects/blog/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/blog/</guid>
+      <description>&lt;h1 id=&#34;hatena-blog&#34;&gt;Hatena Blog&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://upura.hatenablog.com/&#34;&gt;https://upura.hatenablog.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;qiita&#34;&gt;Qiita&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/upura&#34;&gt;https://qiita.com/upura&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;note&#34;&gt;note&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://note.com/upura&#34;&gt;https://note.com/upura&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;youtube&#34;&gt;YouTube&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&#34;&gt;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;speaker-deck&#34;&gt;Speaker Deck&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/upura&#34;&gt;https://speakerdeck.com/upura&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics</title>
       <link>https://upura.github.io/publication/170710_te/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
@@ -513,6 +600,31 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/publication/170324_graduation_thesis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The University of Tokyo Newspaper</title>
+      <link>https://upura.github.io/projects/utnp/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/utnp/</guid>
+      <description>&lt;h1 id=&#34;artcles&#34;&gt;Artcles&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.todaishimbun.org/author/shhrshtr/&#34;&gt;http://www.todaishimbun.org/author/shhrshtr/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;event&#34;&gt;Event&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://mainichi.jp/articles/20170522/k00/00m/040/066000c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;電通過労自殺「日本を変えて」遺族が東大で呼びかけ&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sports Achievements</title>
+      <link>https://upura.github.io/projects/sports_achievements/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/sports_achievements/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sumo, Best 8 in Nagoya City (2001 and 2002).&lt;/li&gt;
+&lt;li&gt;Athletics: Long jump, Best 8 in Nagoya city and proceed to Aichi prefecture competition (2009, 2012).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
