@@ -36,6 +36,7 @@ Competition Master / Notebooks Expert / Discussion Expert
 https://www.kaggle.com/sishihara
 
 - [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team)
+  - [AI Task Force, PetFinder.my](https://www.petfinder.my/ai_taskforce.htm)
 - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification) 32nd, Silver (Team)
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo)
 - [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) 212th, Silver (Team)

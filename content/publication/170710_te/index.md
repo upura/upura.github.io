@@ -26,7 +26,7 @@ abstract: Proceedings of International Conference on Transdisciplinary Engineeri
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: true
 
 links:

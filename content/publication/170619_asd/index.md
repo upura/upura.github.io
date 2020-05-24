@@ -26,7 +26,7 @@ abstract: 第８回高齢社会デザイン（ASD）研究発表会講演論文�
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: false
 
 links:

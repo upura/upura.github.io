@@ -25,7 +25,7 @@ abstract: Proceedings of Computation + Journalism Symposium 2020. Boston, MA, US
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: true
 
 links:

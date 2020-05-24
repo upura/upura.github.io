@@ -12,14 +12,7 @@ event_url: http://www.datascientist.or.jp/symp/2019/
 #   country: United States
 
 summary: https://upura.hatenablog.com/entry/2019/10/17/161038
-abstract: "https://upura.hatenablog.com/entry/2019/10/17/161038
-
-- [データサイエンティストの仕事は奪われない　「Kaggle Grandmaster」が語るデータ分析の本質](https://www.itmedia.co.jp/news/articles/1910/21/news104.html)
-
-- [データサイエンティストのトップ「Kaggle Grandmaster」って、どんな人？](https://news.mynavi.jp/article/20191025-914409/)
-
-- [Kaggle Grandmasterに聞く「トップデータサイエンティストの過去・現在・未来」 ― データサイエンティスト協会 6th シンポジウム](https://www.atmarkit.co.jp/ait/articles/1910/24/news019.html)
-"
+abstract: "https://upura.hatenablog.com/entry/2019/10/17/161038"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -24,7 +24,7 @@ abstract: Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: false
 
 links:

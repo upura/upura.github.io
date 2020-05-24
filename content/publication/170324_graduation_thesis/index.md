@@ -24,7 +24,7 @@ abstract: Best Graduation Research Award, Department of Systems Innovation, Facu
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: true
 
 links:

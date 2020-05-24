@@ -25,7 +25,7 @@ abstract: 講談社
 summary: ''
 
 tags:
-- Source Themes
+- 
 featured: true
 
 links:

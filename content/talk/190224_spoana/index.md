@@ -12,9 +12,7 @@ event_url: https://spoana.connpass.com/event/113586/
 #   country: United States
 
 summary: https://upura.hatenablog.com/entry/2019/02/25/121000
-abstract: "https://upura.hatenablog.com/entry/2019/02/25/121000
-
-- [こんな競技にもアナリスト？ スポーツデータ分析に新風吹き込むイベント開催](https://insight.official-pacificleague.com/news/11829)"
+abstract: "https://upura.hatenablog.com/entry/2019/02/25/121000"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

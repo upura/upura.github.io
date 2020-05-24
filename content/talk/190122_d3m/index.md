@@ -12,9 +12,7 @@ event_url: https://d3m.connpass.com/event/115217/
 #   country: United States
 
 summary: https://upura.hatenablog.com/entry/d3m-part4
-abstract: "https://upura.hatenablog.com/entry/d3m-part4
-
-- [機械学習を用いた日経電子版Proのユーザ分析 データドリブンチームの知られざる取り組み](https://logmi.jp/tech/articles/321077)"
+abstract: "https://upura.hatenablog.com/entry/d3m-part4"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
