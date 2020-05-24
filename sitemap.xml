@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://upura.github.io/projects/media/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/projects/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://upura.github.io/publication-type/0/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -49,11 +59,6 @@
   
   <url>
     <loc>https://upura.github.io/publication/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/tag/source-themes/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,11 +115,6 @@
   <url>
     <loc>https://upura.github.io/talk/200228_google_qa/</loc>
     <lastmod>2020-02-28T19:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/projects/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
