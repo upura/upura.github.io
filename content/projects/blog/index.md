@@ -15,7 +15,7 @@ external_link: ""
 links:
 - icon: ''
   icon_pack: fab
-  name: ''
+  name: URL
   url: https://upura.hatenablog.com
 url_code: ""
 url_pdf: ""
