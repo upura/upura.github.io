@@ -35,24 +35,24 @@ slides: ""
 Competition Master / Notebooks Expert / Discussion Expert
 https://www.kaggle.com/sishihara
 
-- [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team)
+- [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction) 1st, Gold (Team), 2019.
   - [AI Task Force, PetFinder.my](https://www.petfinder.my/ai_taskforce.htm)
-- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification) 32nd, Silver (Team)
-- [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo)
-- [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) 212th, Silver (Team)
-- [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) 325th, Bronze (Solo)
-- [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge), 190th, Bronze (Solo)
+- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification) 32nd, Silver (Team), 2019.
+- [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo), 2018.
+- [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) 212th, Silver (Team), 2019.
+- [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) 325th, Bronze (Solo), 2018.
+- [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge), 190th, Bronze (Solo), 2020.
 
 # SIGNATE
 
 Expert
 https://signate.jp/profile/history
 
-- [【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定](https://signate.jp/competitions/158) 3rd (Solo)
+- [【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定](https://signate.jp/competitions/158) 3rd (Solo), 2019.
 
 # Nishika
 
-- [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 3rd (Solo)
+- [財務・非財務情報を活用した株主価値予測](https://www.nishika.com/competitions/4/summary) 2nd (Solo), 2020.
 
 # AtCoder
 
@@ -61,5 +61,5 @@ https://atcoder.jp/users/upura
 
 # Others
 
-- 「[ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)」（エンジニアリング部門）準優勝, 2018年10月6〜7日.
-- 「[オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000)」準優勝, 2019年1月26日.
+- [ベースボール×データ ハッカソン](https://upura.hatenablog.com/entry/2018/10/07/222150)（エンジニアリング部門） 2nd (Team), 2018.
+- [オレシカナイトデータコンペティションvol.2](https://upura.hatenablog.com/entry/2019/01/29/200000) 2nd (Solo), 2019.
