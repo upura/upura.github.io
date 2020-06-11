@@ -30,6 +30,7 @@ url_video: ""
 slides: ""
 ---
 
+- [「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html), ITmedia, Jun 11st, 2020.
 - [データアナリスト、機械学習エンジニアが語るAIキャリアの形成について【6/27（木） AIキャリアイベント #4】](https://trainz.jp/media/aievent/156/), TRaiNZ, Mar 25th, 2020.
 - [できないのが、当たり前。変革が激しいからこそ、新しいことへ挑戦する【6/27（木）イベントレポート#2】](https://trainz.jp/media/aievent/128/), TRaiNZ, Mar 25th, 2020.
 - [データサイエンティストのトップ「Kaggle Grandmaster」って、どんな人？](https://news.mynavi.jp/article/20191025-914409/), マイナビニュース, Oct 25th, 2019.
