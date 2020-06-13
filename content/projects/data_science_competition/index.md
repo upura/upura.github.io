@@ -41,7 +41,7 @@ https://www.kaggle.com/sishihara
 - [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge) 85th, Silver (Solo), 2018.
 - [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) 212th, Silver (Team), 2019.
 - [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) 325th, Bronze (Solo), 2018.
-- [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge), 190th, Bronze (Solo), 2020.
+- [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge), 191st, Bronze (Solo), 2020.
 
 # SIGNATE
 
