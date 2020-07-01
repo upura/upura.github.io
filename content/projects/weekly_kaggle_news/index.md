@@ -30,5 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Kaggler-created weekly news letter featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20
-) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html).
+Kaggler-created weekly news letter written in Japanese. There are over 1000 subscribers and featured by [Kaggle official](https://twitter.com/kaggle/status/1214931423003414530?s=20) and [atmarkit.co.jp](https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html).
