@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Shotaro Ishihara</title>
+    <link>https://upura.github.io/publication-type/6/</link>
+      <atom:link href="https://upura.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://upura.github.io/img/avatar.png</url>
+      <title>6</title>
+      <link>https://upura.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>機械学習の性能を「正しく」見積もる</title>
+      <link>https://upura.github.io/publication/190922_nikkei_dev_book/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/190922_nikkei_dev_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜</title>
+      <link>https://upura.github.io/publication/190414_nikkei_dev_book/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/190414_nikkei_dev_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>機械学習を用いた日経電子版Proのユーザ分析</title>
+      <link>https://upura.github.io/publication/181008_nikkei_dev_book/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/181008_nikkei_dev_book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

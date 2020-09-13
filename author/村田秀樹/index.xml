@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>村田秀樹 | Shotaro Ishihara</title>
+    <link>https://upura.github.io/author/%E6%9D%91%E7%94%B0%E7%A7%80%E6%A8%B9/</link>
+      <atom:link href="https://upura.github.io/author/%E6%9D%91%E7%94%B0%E7%A7%80%E6%A8%B9/index.xml" rel="self" type="application/rss+xml" />
+    <description>村田秀樹</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://upura.github.io/img/avatar.png</url>
+      <title>村田秀樹</title>
+      <link>https://upura.github.io/author/%E6%9D%91%E7%94%B0%E7%A7%80%E6%A8%B9/</link>
+    </image>
+    
+    <item>
+      <title>PythonではじめるKaggleスタートブック</title>
+      <link>https://upura.github.io/publication/200317_python_kaggle/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200317_python_kaggle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
