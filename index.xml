@@ -5,7 +5,11 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2020 20:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jul 2020 19:00:00 +0000</lastBuildDate>
+>>>>>>> 45c13795773f210fd2d3c820fad3355d60171c0a
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>Kaggle ではじめるデータ サイエンス</title>
       <link>https://upura.github.io/talk/200911_ask_the_expert/</link>
       <pubDate>Fri, 11 Sep 2020 20:00:00 +0000</pubDate>
@@ -35,6 +40,8 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+=======
+>>>>>>> 45c13795773f210fd2d3c820fad3355d60171c0a
       <title>「おすすめコンペは何？」の答え方を真面目に考える</title>
       <link>https://upura.github.io/talk/200731_rist/</link>
       <pubDate>Fri, 31 Jul 2020 19:00:00 +0000</pubDate>
