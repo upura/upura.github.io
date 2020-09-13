@@ -1,7 +1,7 @@
 ---
-title: Pythonで機械学習コンペティション「Kaggle」をはじめよう
-event: Scipy Japan 2020
-event_url: https://www.scipyjapan.scipy.org/
+title: Kaggle ではじめるデータ サイエンス
+event: Ask the Expert - presented by Google Cloud
+event_url: https://developers-jp.googleblog.com/2020/08/ask-expert.html
 
 # location: Source Themes HQ
 # address:
