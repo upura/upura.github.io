@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://upura.github.io/projects/jobs/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/projects/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://upura.github.io/tag/kaggle/</loc>
     <lastmod>2020-09-11T20:00:00+00:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://upura.github.io/talk/</loc>
-    <lastmod>2020-09-11T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/</loc>
     <lastmod>2020-09-11T20:00:00+00:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>https://upura.github.io/projects/media/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/projects/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
