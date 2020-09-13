@@ -11,8 +11,8 @@ event_url: https://developers-jp.googleblog.com/2020/08/ask-expert.html
 #   postcode: '94305'
 #   country: United States
 
-summary: 
-abstract: ""
+summary: https://upura.hatenablog.com/entry/2020/09/10/210400
+abstract: "https://upura.hatenablog.com/entry/2020/09/10/210400"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
