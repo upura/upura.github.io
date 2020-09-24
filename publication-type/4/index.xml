@@ -5,12 +5,20 @@
     <link>https://upura.github.io/publication-type/4/</link>
       <atom:link href="https://upura.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>4</title>
       <link>https://upura.github.io/publication-type/4/</link>
     </image>
+    
+    <item>
+      <title>新聞記事での共起回数を用いた関連企業の抽出</title>
+      <link>https://upura.github.io/publication/200923_yans/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200923_yans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>コミュニティの特徴を考慮した見守りサービス設計手法の開発</title>

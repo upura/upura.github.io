@@ -5,12 +5,20 @@
     <link>https://upura.github.io/author/%E7%9F%B3%E5%8E%9F%E7%A5%A5%E5%A4%AA%E9%83%8E/</link>
       <atom:link href="https://upura.github.io/author/%E7%9F%B3%E5%8E%9F%E7%A5%A5%E5%A4%AA%E9%83%8E/index.xml" rel="self" type="application/rss+xml" />
     <description>石原祥太郎</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>石原祥太郎</title>
       <link>https://upura.github.io/author/%E7%9F%B3%E5%8E%9F%E7%A5%A5%E5%A4%AA%E9%83%8E/</link>
     </image>
+    
+    <item>
+      <title>新聞記事での共起回数を用いた関連企業の抽出</title>
+      <link>https://upura.github.io/publication/200923_yans/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/publication/200923_yans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kaggleは実務の役に立つ？ データサイエンティストがKaggleから学んだ「教師あり学習」の勘どころ</title>

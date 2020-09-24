@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://upura.github.io/publication-type/4/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/authors/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/publication_types/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/publication/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/publication/200923_yans/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://upura.github.io/author/%E7%9F%B3%E5%8E%9F%E7%A5%A5%E5%A4%AA%E9%83%8E/</loc>
+    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://upura.github.io/projects/jobs/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://upura.github.io/projects/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,27 +98,7 @@
   </url>
   
   <url>
-    <loc>https://upura.github.io/authors/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://upura.github.io/publication/200423_engineer_hub/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/publication_types/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/publication/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/author/%E7%9F%B3%E5%8E%9F%E7%A5%A5%E5%A4%AA%E9%83%8E/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -280,11 +290,6 @@
   <url>
     <loc>https://upura.github.io/author/taiga-mitsuyuki/</loc>
     <lastmod>2017-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://upura.github.io/publication-type/4/</loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
