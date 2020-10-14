@@ -5,12 +5,34 @@
     <link>https://upura.github.io/tag/kaggle/</link>
       <atom:link href="https://upura.github.io/tag/kaggle/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaggle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Sep 2020 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Kaggle</title>
       <link>https://upura.github.io/tag/kaggle/</link>
     </image>
+    
+    <item>
+      <title>4. 点と点が線になるってこういうことなのかな</title>
+      <link>https://upura.github.io/talk/201014_keep_alive_fm/</link>
+      <pubDate>Wed, 14 Oct 2020 17:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/201014_keep_alive_fm/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Kaggle ではじめるデータ サイエンス</title>
@@ -289,6 +311,8 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://signate.jp/competitions/158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定&lt;/a&gt; 3rd (Solo), 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://signate.jp/competitions/141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国立公園の観光宿泊者数予測&lt;/a&gt; 10th (Solo), 2018.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;nishika&#34;&gt;Nishika&lt;/h1&gt;
 &lt;ul&gt;
