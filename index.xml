@@ -5,7 +5,7 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2020 15:50:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
@@ -13,10 +13,32 @@
     </image>
     
     <item>
+      <title>Pythonで機械学習コンペティション「Kaggle」をはじめよう</title>
+      <link>https://upura.github.io/talk/201030_scipy_japan/</link>
+      <pubDate>Fri, 30 Oct 2020 09:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/201030_scipy_japan/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>kagglerが語る「コンペとキャリアとビジネスと私」</title>
-      <link>https://upura.github.io/talk/201030_aws_dev_day/</link>
+      <link>https://upura.github.io/talk/201021_aws_dev_day/</link>
       <pubDate>Wed, 21 Oct 2020 15:50:00 +0000</pubDate>
-      <guid>https://upura.github.io/talk/201030_aws_dev_day/</guid>
+      <guid>https://upura.github.io/talk/201021_aws_dev_day/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -763,6 +785,8 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2019/01/29/200000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;オレシカナイトデータコンペティションvol.2&lt;/a&gt; 2nd (Solo), 2019.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://competitions.codalab.org/competitions/23905&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basketball Behavior Challenge BBC2020&lt;/a&gt; 1st (Solo), 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://atma.connpass.com/event/188865/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sansan × atmaCup #6&lt;/a&gt; 15th &amp;amp; LT大会 社会人枠最優秀LT賞 (Solo), 2020.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
