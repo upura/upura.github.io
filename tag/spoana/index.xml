@@ -57,6 +57,28 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
     </item>
     
     <item>
+      <title>PK戦の先攻有利は「ABBA方式」で変わるか？</title>
+      <link>https://upura.github.io/talk/201213_spoana/</link>
+      <pubDate>Sun, 30 Jun 2019 14:30:00 +0000</pubDate>
+      <guid>https://upura.github.io/talk/201213_spoana/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」</title>
       <link>https://upura.github.io/talk/190224_spoana/</link>
       <pubDate>Sun, 24 Feb 2019 14:30:00 +0000</pubDate>
@@ -101,6 +123,8 @@ Further talk details can easily be added to this page using *Markdown* and $\rm 
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2020/04/17/190500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #7&lt;/a&gt;, Apr 16th, 2020.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2020/07/19/090000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #8&lt;/a&gt;, July 18th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/14/090032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #9&lt;/a&gt;, Dec 13rd, 2020.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
