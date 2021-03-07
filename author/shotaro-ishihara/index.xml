@@ -5,36 +5,12 @@
     <link>https://upura.github.io/author/shotaro-ishihara/</link>
       <atom:link href="https://upura.github.io/author/shotaro-ishihara/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://upura.github.io/img/avatar.png</url>
+      <url>https://upura.github.io/author/shotaro-ishihara/avatar_hua2e664ef1359c21c98c2ac366014c83b_91928_270x270_fill_lanczos_center_2.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/author/shotaro-ishihara/</link>
     </image>
-    
-    <item>
-      <title>Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &#34;Kaggle&#34;</title>
-      <link>https://upura.github.io/publication/200320_cj/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/publication/200320_cj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics</title>
-      <link>https://upura.github.io/publication/170710_te/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/publication/170710_te/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>コミュニティの特徴を考慮した見守りサービス設計手法の開発</title>
-      <link>https://upura.github.io/publication/170324_graduation_thesis/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/publication/170324_graduation_thesis/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

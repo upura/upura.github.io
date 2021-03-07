@@ -5,7 +5,7 @@
     <link>https://upura.github.io/projects/</link>
       <atom:link href="https://upura.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Projects</title>
@@ -13,34 +13,246 @@
     </image>
     
     <item>
-      <title>Job Roles</title>
-      <link>https://upura.github.io/projects/jobs/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/jobs/</guid>
-      <description>&lt;h2 id=&#34;2017-10-01--2017-12-31&#34;&gt;2017-10-01 ~ 2017-12-31&lt;/h2&gt;
+      <title>OSS Activities</title>
+      <link>https://upura.github.io/projects/oss_activities/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/oss_activities/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Operation and development of database services (Java, JavaScript)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/upura/ayniy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayniy, All You Need is YAML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/upura/nlp-recipes-ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLP Recipes for Japanese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/upura/nlp100v2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;言語処理100本ノック 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;2018-01-01--2019-03-31&#34;&gt;2018-01-01 ~ 2019-03-31&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.getrevue.co/profile/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weekly Kaggle News&lt;/a&gt;: Weekly news letter written in Japanese.
 &lt;ul&gt;
-&lt;li&gt;Launch of data analysis team in b2b section (SQL, Python)&lt;/li&gt;
-&lt;li&gt;Development of APIs to handle contract information (Node.js)&lt;/li&gt;
+&lt;li&gt;There are over 1500 subscribers, and featured by 
+&lt;a href=&#34;https://twitter.com/kaggle/status/1214931423003414530?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle official&lt;/a&gt; and 
+&lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmarkit.co.jp&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;2019-04-01-&#34;&gt;2019-04-01 ~&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hatena Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://qiita.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qiita&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Data analysis and service development for b2b products (SQL, Python)&lt;/li&gt;
-&lt;li&gt;Research and development across departments (SQL, Python)&lt;/li&gt;
-&lt;li&gt;In-house training and public relations&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.todaishimbun.org/author/shhrshtr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Tokyo Press&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Events
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://spoana.connpass.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/14/090032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #9&lt;/a&gt;, Dec 13rd, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/07/19/090000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #8&lt;/a&gt;, July 18th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/04/17/190500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #7&lt;/a&gt;, Apr 16th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/02/17/120725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #6&lt;/a&gt;, Frb 16th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/11/02/220842&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #5&lt;/a&gt;, Nov 2nd, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/08/24/214442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #4&lt;/a&gt;, Aug 24th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/06/30/215844&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #3&lt;/a&gt;, Jun 30th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/05/12/222331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #2&lt;/a&gt;, May 12th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/02/25/121000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #1&lt;/a&gt;, Feb 24th, 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://mainichi.jp/articles/20170522/k00/00m/040/066000c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;電通過労自殺「日本を変えて」遺族が東大で呼びかけ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Media Coverage</title>
-      <link>https://upura.github.io/projects/media/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/media/</guid>
-      <description>&lt;ul&gt;
+      <title>Publications</title>
+      <link>https://upura.github.io/projects/publications/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/publications/</guid>
+      <description>&lt;h2 id=&#34;conference-paper-referred&#34;&gt;Conference Paper (Referred)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Shuhei Goda, Yuya Matsumura (2021). Weighted Averaging of Various LSTM Models for Next Destination Recommendation, 
+&lt;a href=&#34;https://web.ec.tuwien.ac.at/webtour21/?page_id=27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM WSDM Workshop on Web Tourism (WSDM Webtour&#39;21)&lt;/a&gt;, March 12, 2021, Jerusalem, Israel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2020). 
+&lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &amp;ldquo;Kaggle&amp;rdquo;&lt;/a&gt;. Computation + Journalism Symposium 2020. Boston, MA, USA.&lt;/li&gt;
+&lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2017). 
+&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/46762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics&lt;/a&gt;. In Proceedings of International Conference on Transdisciplinary Engineering, Singapore, pp. 713–20.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-unreferred&#34;&gt;Conference (Unreferred)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;石原慧人, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.&lt;/li&gt;
+&lt;li&gt;稗方和夫, 満行泰河, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 
+&lt;a href=&#34;http://www.ipsj.or.jp/kenkyukai/event/asd8.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第８回高齢社会デザイン研究発表会&lt;/a&gt;, 2017年6月19日.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;book-section&#34;&gt;Book Section&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). 
+&lt;a href=&#34;https://note.com/nikkei_staff/n/neeae5e42c9f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜&lt;/a&gt;, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2018). 
+&lt;a href=&#34;https://note.com/nikkei_staff/n/n4d5253dbd58d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;機械学習を用いた日経電子版Proのユーザ分析&lt;/a&gt;, Nikkei Development Book 第1章, 技術書典5, 2018年10月8日.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;patent&#34;&gt;Patent&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;株式会社日本経済新聞社 (2020). 要約文作成装置、要約文作成方法、およびプログラム. 特願2020-158897.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;コミュニティの特徴を考慮した見守りサービス設計手法の開発, Graduation thesis in Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, Mar 24th, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30 Under 30 Awards, Grand Prize for Asia/Pacific&lt;/a&gt;, 
+&lt;a href=&#34;https://www.inma.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International News Media Association (INMA)&lt;/a&gt;, Sep 17th, 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gci.t.u-tokyo.ac.jp/dsonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course&lt;/a&gt;, 
+&lt;a href=&#34;https://weblab.t.u-tokyo.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室&lt;/a&gt;, Oct 10, 2017 - Mar 12th, 2018.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.k.u-tokyo.ac.jp/info/en/entry/31_entry174/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTL Systems Approach Workshop at MIT&lt;/a&gt;, 
+&lt;a href=&#34;https://gtl.edu.k.u-tokyo.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Teamwork Lab&lt;/a&gt;, Mar 17-21, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Media Coverage</title>
+      <link>https://upura.github.io/projects/talks_and_media/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/talks_and_media/</guid>
+      <description>&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sports-con.xyz/concast-74/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;74 第9回スポアナ感想戦 (Gota, K, upura)&lt;/a&gt;, 
+&lt;a href=&#34;https://sports-con.xyz/concast-74/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONCAST&lt;/a&gt;, Dec 16th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/14/090032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basketball Behavior Challenge 1位解法&lt;/a&gt;, 
+&lt;a href=&#34;https://spoana.connpass.com/event/190699/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup#9&lt;/a&gt;, Dec 13rd, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sports-con.xyz/concast-73/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;73 spoana振り返り(Gota, K, upura)&lt;/a&gt;, 
+&lt;a href=&#34;https://sports-con.xyz/concast-73/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONCAST&lt;/a&gt;, Dec 11th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/10/233944&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CA x atmaCup 2nd, 5th Place Solution&lt;/a&gt;, 
+&lt;a href=&#34;https://atma.connpass.com/event/198237/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmaCup#7 振り返り会&lt;/a&gt;, Dec 10th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/02/183400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ニュースメディアでの機械学習活用事例 ー Kaggle コンペ開催を題材にー&lt;/a&gt;, 
+&lt;a href=&#34;https://cloudonair.withgoogle.com/events/google-mlsummit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Developers ML Summit&lt;/a&gt;, Dec 3rd, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/11/08/160104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;企業の&amp;quot;Kaggler枠&amp;quot;って実際どうなの？&lt;/a&gt;, 
+&lt;a href=&#34;http://www.datascientist.or.jp/symp/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;データサイエンティスト協会7thシンポジウム&lt;/a&gt;, Nov 10th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/10/25/131543&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pythonで機械学習コンペティション「Kaggle」をはじめよう&lt;/a&gt;, 
+&lt;a href=&#34;https://www.scipyjapan.scipy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scipy Japan 2020&lt;/a&gt;, Oct 30th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/aws-dev-day-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kagglerが語る「コンペとキャリアとビジネスと私」&lt;/a&gt;, 
+&lt;a href=&#34;https://aws.amazon.com/jp/about-aws/events/2020/devday/sessions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS DEV DAY ONLINE JAPAN&lt;/a&gt;, Oct 21st, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/10/19/124700&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;42. u++さんとメディアビジネスのお話&lt;/a&gt;, 
+&lt;a href=&#34;https://shirokane-kougyou.fm/episode/42&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;白金鉱業.FM&lt;/a&gt;, Oct 19th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/10/14/172007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4. 点と点が線になるってこういうことなのかな&lt;/a&gt;, 
+&lt;a href=&#34;https://anchor.fm/keep-alive/episodes/4-el1mul&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;keep-alive.fm&lt;/a&gt;, Oct 14th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/09/10/210400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle ではじめるデータ サイエンス&lt;/a&gt;, 
+&lt;a href=&#34;https://developers-jp.googleblog.com/2020/08/ask-expert.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask the Expert - presented by Google Cloud&lt;/a&gt;, Sep 11th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/07/31/223000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「おすすめコンペは何？」の答え方を真面目に考える&lt;/a&gt;, 
+&lt;a href=&#34;https://rist.connpass.com/event/182932/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rist主催 Kaggle Workshop #1&lt;/a&gt;, July 31st, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/06/15/120400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLflow Tracking を用いた実験管理&lt;/a&gt;, 
+&lt;a href=&#34;https://atma.connpass.com/event/178585/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmaCup#5 振り返り会&lt;/a&gt;, June 14th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/05/23/215000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R言語で「言語処理100本ノック 2020」&lt;/a&gt;, 
+&lt;a href=&#34;https://tokyor.connpass.com/event/176318/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第85回R勉強会@東京（#TokyoR）&lt;/a&gt;, May 23rd, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/03/27/230654&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【Kaggleスタートブック発売記念】 ゲスト u++ さん&lt;/a&gt;, 
+&lt;a href=&#34;https://anchor.fm/regonn-curry-fm/episodes/069-Kaggle--u-ebjhb6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;regonn&amp;amp;curry.fm&lt;/a&gt;, Mar 16th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/02/28/235815&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLPコンペの知見を実務に活かすために&lt;/a&gt;, 
+&lt;a href=&#34;https://connpass.com/event/167595/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Google Quest Q&amp;amp;A Labeling 反省会&lt;/a&gt;, Feb 28th, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/12/07/201500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KaggleとRコンペの紹介&lt;/a&gt;, 
+&lt;a href=&#34;https://japanr.connpass.com/event/154070/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Japan.R 2019&lt;/a&gt;, Dec 7th 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/10/17/161038&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Grandmasterに聞く！－トップデータサイエンティストの過去・現在・未来－&lt;/a&gt;, 
+&lt;a href=&#34;http://www.datascientist.or.jp/symp/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;データサイエンティスト協会 6thシンポジウム&lt;/a&gt;, Oct 17th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/09/07/222736&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;技術力で世界と戦う 機械学習コンペティション「Kaggle」の魅力&lt;/a&gt;, 
+&lt;a href=&#34;https://connpass.com/event/134720/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AIchi勉強会&lt;/a&gt;, Sep 7th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/09/06/212219&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;なんでデータサイエンティストやってるの？&lt;/a&gt;, 
+&lt;a href=&#34;https://nan-d-vol4.peatix.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;なんでデータサイエンティストやってるの？ 〜 思い描いていた自分を思い出すために。 vol.4&lt;/a&gt;, Sep 6th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/08/24/214442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;機械学習を用いた大相撲千秋楽の勝敗予想&lt;/a&gt;, 
+&lt;a href=&#34;https://spoana.connpass.com/event/138392/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup#4&lt;/a&gt;, Aug 24th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/07/13/173420&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PetFinder 2nd Place Solution&lt;/a&gt;, 
+&lt;a href=&#34;https://connpass.com/event/132935/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Tokyo Meetup#6&lt;/a&gt;, July 13rd 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/06/30/215844&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PK戦の先攻有利は「ABBA方式」で変わるか？&lt;/a&gt;, 
+&lt;a href=&#34;https://spoana.connpass.com/event/134243/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup#3&lt;/a&gt;, Jun 30th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/06/27/222248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;社外で探る自分のキャリア&lt;/a&gt;, 
+&lt;a href=&#34;https://ailounge.connpass.com/event/134525/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【ESTYLE AI LOUNGE】データアナリスト・機械学習エンジニアの実情とAIキャリアの築き方&lt;/a&gt;, Jun 27th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/04/19/123325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29組のデータアナリストに同じデータセットと同じ質問を与えても、分析結果がバラバラだったという研究&lt;/a&gt;, 
+&lt;a href=&#34;https://d3m.connpass.com/event/128063/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Driven Developer Meetup 【番外編 好きな論文について語る会】#1&lt;/a&gt;, Apr 22nd, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/03/04/230000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;技術アウトプットを支える技術&lt;/a&gt;, 
+&lt;a href=&#34;https://brainpad-meetup.connpass.com/event/119149/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;白金鉱業 Meetup Vol.6&lt;/a&gt;, Mar 4th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/02/25/121000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;初心者向けスポーツ分析チュートリアル「目標達成に導くデータ分析」&lt;/a&gt;, 
+&lt;a href=&#34;https://spoana.connpass.com/event/113586/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup#1&lt;/a&gt;, Feb 24th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/d3m-part4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;機械学習を用いた日経電子版Proのユーザ分析&lt;/a&gt;, 
+&lt;a href=&#34;https://d3m.connpass.com/event/115217/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Driven Developer Meetup#4&lt;/a&gt;, Jan 22nd, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/01/19/184655&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;17^2+19^2+37^2=2019&lt;/a&gt;, 
+&lt;a href=&#34;https://tokyor.connpass.com/event/113519/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第75回R勉強会@東京（#TokyoR）&lt;/a&gt;, Jan 19th, 2019.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2018/12/22/180130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;野球データ分析ハッカソン準優勝解法と特徴量重要度&lt;/a&gt;, 
+&lt;a href=&#34;https://twitter.com/ou_aims/status/1073062205925470208&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第43回阪大AIメディカル研究会&lt;/a&gt;, Dec 22nd, 2018.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2018/12/01/232113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kaggler-ja driven learning　なぜ質問に答え、どう学んでいるか&lt;/a&gt;, 
+&lt;a href=&#34;https://connpass.com/event/105298/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Tokyo Meetup#5&lt;/a&gt;, Dec 1st, 2018.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.hatenablog.com/entry/2018/11/10/210427&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soccer × Attribution Analysis&lt;/a&gt;, 
+&lt;a href=&#34;https://tokyor.connpass.com/event/106936/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第74回R勉強会@東京（#TokyoR）&lt;/a&gt;, Nov 10th, 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media-coverage&#34;&gt;Media Coverage&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.massnavi.com/people/1077.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;報道機関のデータサイエンティストに求められること／日本経済新聞社 データサイエンティスト 石原祥太郎さん&lt;/a&gt;, massnavi, Feb 4th, 2021.&lt;/li&gt;
 &lt;li&gt;
@@ -55,6 +267,8 @@
 &lt;a href=&#34;https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INMA 30 Under 30: Shotaro Ishihara of Nikkei&lt;/a&gt;, INMA, Sep 23rd, 2020.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選&lt;/a&gt;, ITmedia, Jun 11st, 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://employment.en-japan.com/engineerhub/entry/2020/04/23/103000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggleは実務の役に立つ？ データサイエンティストがKaggleから学んだ「教師あり学習」の勘どころ&lt;/a&gt;, エンジニアHub, Apr 23rd, 2020.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://trainz.jp/media/aievent/156/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;データアナリスト、機械学習エンジニアが語るAIキャリアの形成について【6/27（木） AIキャリアイベント #4】&lt;/a&gt;, TRaiNZ, Mar 25th, 2020.&lt;/li&gt;
 &lt;li&gt;
@@ -75,59 +289,24 @@
 &lt;a href=&#34;https://www.nikkansports.com/baseball/news/201810130000057.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;野球データ分析、予測競技会「ハッカソン」に潜入&lt;/a&gt;, 日刊スポーツ, Oct 13th, 2018.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://mainichi.jp/articles/20170522/k00/00m/040/066000c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;電通過労自殺「日本を変えて」遺族が東大で呼びかけ&lt;/a&gt;, 毎日新聞, May 21st, 2017.&lt;/li&gt;
-&lt;li&gt;東大「胴上げの春」復活　４年ぶり合格掲示へ　ウェブ主流でも「記念」, 東京読売新聞, Nov 21st, 2016&lt;/li&gt;
-&lt;li&gt;「通貨の番人」日銀のトリビア, 日本経済新聞電子版, May 16th, 2015&lt;/li&gt;
-&lt;li&gt;東大（４）芽吹く「タフな知性」――打たれ弱い気質変化、就職先、「収入より活躍」（大学解剖）, 日経産業新聞, Apr 3rd, 2015&lt;/li&gt;
+&lt;li&gt;東大「胴上げの春」復活　４年ぶり合格掲示へ　ウェブ主流でも「記念」, 東京読売新聞, Nov 21st, 2016.&lt;/li&gt;
+&lt;li&gt;「通貨の番人」日銀のトリビア, 日本経済新聞電子版, May 16th, 2015.&lt;/li&gt;
+&lt;li&gt;東大（４）芽吹く「タフな知性」――打たれ弱い気質変化、就職先、「収入より活躍」（大学解剖）, 日経産業新聞, Apr 3rd, 2015.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Weekly Kaggle News</title>
-      <link>https://upura.github.io/projects/weekly_kaggle_news/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/weekly_kaggle_news/</guid>
-      <description>&lt;p&gt;Kaggler-created weekly news letter written in Japanese. There are over 1400 subscribers and featured by 
-&lt;a href=&#34;https://twitter.com/kaggle/status/1214931423003414530?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle official&lt;/a&gt; and 
-&lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmarkit.co.jp&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sports Analyst Meetup</title>
-      <link>https://upura.github.io/projects/spoana/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/spoana/</guid>
-      <description>&lt;p&gt;This is a community for sports analysts and those interested in sports data analysis.&lt;/p&gt;
+&lt;h2 id=&#34;sports&#34;&gt;Sports&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/02/25/121000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #1&lt;/a&gt;, Feb 24th, 2019.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/05/12/222331&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #2&lt;/a&gt;, May 12th, 2019.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/06/30/215844&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #3&lt;/a&gt;, Jun 30th, 2019.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/08/24/214442&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #4&lt;/a&gt;, Aug 24th, 2019.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2019/11/02/220842&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #5&lt;/a&gt;, Nov 2nd, 2019.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/02/17/120725&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #6&lt;/a&gt;, Frb 16th, 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/04/17/190500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #7&lt;/a&gt;, Apr 16th, 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/07/19/090000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #8&lt;/a&gt;, July 18th, 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/14/090032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sports Analyst Meetup #9&lt;/a&gt;, Dec 13rd, 2020.&lt;/li&gt;
+&lt;li&gt;Sumo, Best 8 in Nagoya City (2001 and 2002).&lt;/li&gt;
+&lt;li&gt;Athletics: Long jump, Best 8 in Nagoya city and proceed to Aichi prefecture competition (2009, 2012).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Data Science Competition</title>
-      <link>https://upura.github.io/projects/data_science_competition/</link>
+      <title>Data Science Competitions</title>
+      <link>https://upura.github.io/projects/data_science_competitions/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/data_science_competition/</guid>
-      <description>&lt;h1 id=&#34;kaggle&#34;&gt;Kaggle&lt;/h1&gt;
+      <guid>https://upura.github.io/projects/data_science_competitions/</guid>
+      <description>&lt;h2 id=&#34;kaggle&#34;&gt;Kaggle&lt;/h2&gt;
 &lt;p&gt;Competition Master / Notebooks Expert / Discussion Expert
 &lt;a href=&#34;https://www.kaggle.com/sishihara&#34;&gt;https://www.kaggle.com/sishihara&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -151,7 +330,7 @@
 &lt;li&gt;
 &lt;a href=&#34;https://www.kaggle.com/c/deepfake-detection-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deepfake Detection Challenge&lt;/a&gt;, 191st, Bronze (Solo), 2020.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;signate&#34;&gt;SIGNATE&lt;/h1&gt;
+&lt;h2 id=&#34;signate&#34;&gt;SIGNATE&lt;/h2&gt;
 &lt;p&gt;Expert
 &lt;a href=&#34;https://signate.jp/profile/history&#34;&gt;https://signate.jp/profile/history&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -160,17 +339,17 @@
 &lt;li&gt;
 &lt;a href=&#34;https://signate.jp/competitions/141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;国立公園の観光宿泊者数予測&lt;/a&gt; 10th (Solo), 2018.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;nishika&#34;&gt;Nishika&lt;/h1&gt;
+&lt;h2 id=&#34;nishika&#34;&gt;Nishika&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.nishika.com/competitions/4/summary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;財務・非財務情報を活用した株主価値予測&lt;/a&gt; 2nd (Solo), 2020.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.nishika.com/competitions/7/summary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;判例の個人情報の自動マスキング&lt;/a&gt; 7th (Solo), 2021.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;atcoder&#34;&gt;AtCoder&lt;/h1&gt;
+&lt;h2 id=&#34;atcoder&#34;&gt;AtCoder&lt;/h2&gt;
 &lt;p&gt;Highest: Light Blue
 &lt;a href=&#34;https://atcoder.jp/users/upura&#34;&gt;https://atcoder.jp/users/upura&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;（エンジニアリング部門） 2nd (Team), 2018.&lt;/li&gt;
@@ -182,49 +361,6 @@
 &lt;a href=&#34;https://atma.connpass.com/event/188865/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sansan × atmaCup #6&lt;/a&gt; 15th &amp;amp; LT大会 社会人枠最優秀LT賞 (Solo), 2020.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://atma.connpass.com/event/189613/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CA × atmaCup 2nd&lt;/a&gt; 5th (Team), 2020.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Articles &amp; YouTube &amp; Slides</title>
-      <link>https://upura.github.io/projects/blog/</link>
-      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/blog/</guid>
-      <description>&lt;h1 id=&#34;hatena-blog&#34;&gt;Hatena Blog&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://upura.hatenablog.com/&#34;&gt;https://upura.hatenablog.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;qiita&#34;&gt;Qiita&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://qiita.com/upura&#34;&gt;https://qiita.com/upura&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;note&#34;&gt;note&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://note.com/upura&#34;&gt;https://note.com/upura&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;youtube&#34;&gt;YouTube&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&#34;&gt;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;speaker-deck&#34;&gt;Speaker Deck&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/upura&#34;&gt;https://speakerdeck.com/upura&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The University of Tokyo Newspaper</title>
-      <link>https://upura.github.io/projects/utnp/</link>
-      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/utnp/</guid>
-      <description>&lt;h1 id=&#34;artcles&#34;&gt;Artcles&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.todaishimbun.org/author/shhrshtr/&#34;&gt;http://www.todaishimbun.org/author/shhrshtr/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;event&#34;&gt;Event&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://mainichi.jp/articles/20170522/k00/00m/040/066000c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;電通過労自殺「日本を変えて」遺族が東大で呼びかけ&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sports Achievements</title>
-      <link>https://upura.github.io/projects/sports_achievements/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/sports_achievements/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Sumo, Best 8 in Nagoya City (2001 and 2002).&lt;/li&gt;
-&lt;li&gt;Athletics: Long jump, Best 8 in Nagoya city and proceed to Aichi prefecture competition (2009, 2012).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
