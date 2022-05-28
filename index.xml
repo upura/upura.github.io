@@ -405,6 +405,8 @@ In particular, the need for model reconstruction due to the semantic changes is 
 &lt;li&gt;Sentence or Document Scoring [7][8]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;You can see 
+&lt;a href=&#34;https://upura.github.io/projects/publications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; for the detail.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[1] Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova (2019). BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North AMerican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), 4171–86.&lt;/li&gt;
 &lt;li&gt;[2] Brown, Tom, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al (2020). Language Models Are Few-Shot Learners.” Advances in Neural Information Processing Systems 33: 1877–1901.&lt;/li&gt;
