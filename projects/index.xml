@@ -23,13 +23,13 @@
 &lt;a href=&#34;https://speakerdeck.com/upura/generating-a-pairwise-dataset-for-click-through-rate-prediction-of-news-articles-considering-positions-and-contents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). (to appear)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Yuta Matsuda, and Norihiko Sawa (2021). Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData, pp. 3522-24. [
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21). ACM, New York, NY, USA, 5 pages. [
-&lt;a href=&#34;https://sigir-ecom.github.io/accepted-papers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://sigir-ecom.github.io/accepted-papers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Shuhei Goda, Yuya Matsumura (2021). Weighted Averaging of Various LSTM Models for Next Destination Recommendation, In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021), March 12, 2021, Jerusalem, Israel, pp. 46-49. [
 &lt;a href=&#34;http://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;* (2017). Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics. In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (*corresponding author) [
-&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/46762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/46762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
 &lt;p&gt;This section presents domestic conferences and refereed talks.
@@ -38,51 +38,51 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. (to appear)&lt;/li&gt;
 &lt;li&gt;高橋寛武, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [
-&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;大村和正, 白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [
-&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;増田太郎, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [
-&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;山田健太, 山本真吾, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. 第14回データ工学と情報マネジメントに関するフォーラム. [
-&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2021). Pythonによるアクセスログ解析入門, PyCon JP 2021, Oct 15-16th, 2021. [
-&lt;a href=&#34;https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt;], [
-&lt;a href=&#34;https://youtu.be/_EqrNN5Ld-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
+&lt;a href=&#34;https://youtu.be/_EqrNN5Ld-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;石原慧人, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [
-&lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [
-&lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;] ( 2021年度人工知能学会全国大会優秀賞 [
-&lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;])&lt;/li&gt;
+&lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] ( 2021年度人工知能学会全国大会優秀賞 [
+&lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ])&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [
-&lt;a href=&#34;https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt;], [
-&lt;a href=&#34;https://github.com/upura/scipy-japan-2020-kaggle-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
+&lt;a href=&#34;https://github.com/upura/scipy-japan-2020-kaggle-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [
-&lt;a href=&#34;https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2020). Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &amp;ldquo;Kaggle&amp;rdquo;. Computation + Journalism Symposium 2020. Boston, MA, USA. [
-&lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;稗方和夫, 満行泰河, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日.&lt;/li&gt;
 &lt;li&gt;和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2016). 学生突撃レポート 港湾空港技術研究所. 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45. [
-&lt;a href=&#34;https://ci.nii.ac.jp/naid/40020991735/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://ci.nii.ac.jp/naid/40020991735/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Abhishek Thakur (著), &lt;strong&gt;石原祥太郎&lt;/strong&gt; (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [
-&lt;a href=&#34;https://book.mynavi.jp/ec/products/detail/id=123641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://book.mynavi.jp/ec/products/detail/id=123641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [
-&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5190067.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;] [
-&lt;a href=&#34;http://books.gotop.com.tw/v_ACD021100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chinese&lt;/a&gt;], [
-&lt;a href=&#34;http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&amp;amp;mallGb=KOR&amp;amp;barcode=9791190665841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Korean&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5190067.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ] [
+&lt;a href=&#34;http://books.gotop.com.tw/v_ACD021100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chinese&lt;/a&gt; ], [
+&lt;a href=&#34;http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&amp;amp;mallGb=KOR&amp;amp;barcode=9791190665841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Korean&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;book-section&#34;&gt;Book Section&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日. [
-&lt;a href=&#34;https://techbookfest.org/event/tbf07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://techbookfest.org/event/tbf07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日. [
-&lt;a href=&#34;https://note.com/nikkei_staff/n/neeae5e42c9f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://note.com/nikkei_staff/n/neeae5e42c9f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2018). 機械学習を用いた日経電子版Proのユーザ分析, Nikkei Development Book 第1章, 技術書典5, 2018年10月8日. [
-&lt;a href=&#34;https://note.com/nikkei_staff/n/n4d5253dbd58d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://note.com/nikkei_staff/n/n4d5253dbd58d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
 &lt;ul&gt;
@@ -91,17 +91,17 @@ Other talks and media coverage can be found
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;2021年度人工知能学会全国大会優秀賞, 2021. [
-&lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [
-&lt;a href=&#34;https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Best Graduation Research Award, Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, 2017.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [
-&lt;a href=&#34;https://gci.t.u-tokyo.ac.jp/dsonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://gci.t.u-tokyo.ac.jp/dsonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [
-&lt;a href=&#34;http://www.k.u-tokyo.ac.jp/info/en/entry/31_entry174/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;http://www.k.u-tokyo.ac.jp/info/en/entry/31_entry174/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cite&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
