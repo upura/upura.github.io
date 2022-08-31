@@ -43,7 +43,8 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;梶川怜恩, 鈴木刀磨, 二宮大空, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.&lt;/li&gt;
+&lt;li&gt;梶川怜恩, 鈴木刀磨, 二宮大空, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [
+&lt;a href=&#34;https://github.com/upura/yans2022-hackathon-team-natural&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;馬嶋海斗, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ], [
@@ -60,7 +61,8 @@ Other talks and media coverage can be found
 &lt;a href=&#34;https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
 &lt;a href=&#34;https://youtu.be/_EqrNN5Ld-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;植田暢大、高本大輝、&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2021). 森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み. NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告 [
-&lt;a href=&#34;https://yans.anlp.jp/entry/yans2021report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
+&lt;a href=&#34;https://yans.anlp.jp/entry/yans2021report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ] [
+&lt;a href=&#34;https://github.com/upura/yans2021-hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;石原慧人, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [
@@ -69,7 +71,7 @@ Other talks and media coverage can be found
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [
 &lt;a href=&#34;https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
-&lt;a href=&#34;https://github.com/upura/scipy-japan-2020-kaggle-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; ]&lt;/li&gt;
+&lt;a href=&#34;https://github.com/upura/scipy-japan-2020-kaggle-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [
 &lt;a href=&#34;https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
@@ -101,6 +103,8 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. 梶川怜恩, 鈴木刀磨, 二宮大空, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告.&lt;/li&gt;
+&lt;li&gt;NLP若手の会 (YANS) 第17回シンポジウム奨励賞, 2022. 馬嶋海斗, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成.&lt;/li&gt;
 &lt;li&gt;2021年度人工知能学会全国大会優秀賞, 2021. [
 &lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;30 Under 30 Awards, Grand Prize for Asia/Pacific, The International News Media Association (INMA), Sep 17th, 2020. [
