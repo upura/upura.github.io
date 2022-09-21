@@ -19,6 +19,7 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;conference-paper-referred&#34;&gt;Conference Paper (Referred)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Shotaro Ishihara, Hiromu Takahashi and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. (to appear)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). [
 &lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ], [
 &lt;a href=&#34;https://speakerdeck.com/upura/nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
@@ -260,6 +261,8 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h2 id=&#34;media-coverage&#34;&gt;Media Coverage&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://aws.amazon.com/jp/blogs/news/aws-aiml-jirei-july/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【開催報告 &amp;amp; 資料公開】AWS AI/ML Updateと事例紹介 〜AI/ML で解決したいビジネスの課題、AI/ML サービス活用のコツについてご紹介〜&lt;/a&gt;, Amazon Web Services ブログ, Sep 20th, 2022.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://zine.qiita.com/event/202209-hitachi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート&lt;/a&gt;, Qiita Zine, Sep 2nd, 2022.&lt;/li&gt;
 &lt;li&gt;
