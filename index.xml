@@ -19,11 +19,13 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;conference-paper-referred&#34;&gt;Conference Paper (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;*, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). (to appear) [
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). (to appear) [
 &lt;a href=&#34;https://speakerdeck.com/upura/analysis-and-estimation-of-news-article-reading-time-with-multimodal-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;*, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing. (to appear) (*equal contribution) [
-&lt;a href=&#34;https://speakerdeck.com/upura/semantic-shift-stability-efficient-way-to-detect-performance-degradation-of-word-embeddings-and-pre-trained-language-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022). [
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;*, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, pages 205–216, Online only. Association for Computational Linguistics. (*equal contribution) [
+&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
+&lt;a href=&#34;https://speakerdeck.com/upura/semantic-shift-stability-efficient-way-to-detect-performance-degradation-of-word-embeddings-and-pre-trained-language-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster, slide&lt;/a&gt; ] [
+&lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022), pages 1208–1214, Seattle, United States. Association for Computational Linguistics. [
 &lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/poster-nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
@@ -47,6 +49,8 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). 国際会議参加報告 AACL-IJCNLP 2022. 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム. [
+&lt;a href=&#34;https://speakerdeck.com/upura/aacl-ijcnlp-2022-report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;梶川怜恩, 鈴木刀磨, 二宮大空, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [
 &lt;a href=&#34;https://github.com/upura/yans2022-hackathon-team-natural&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]（Applied Scientist賞 [
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2022report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]）&lt;/li&gt;
@@ -54,7 +58,7 @@ Other talks and media coverage can be found
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2022report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]）&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
-&lt;a href=&#34;https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt;]&lt;/li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;高橋寛武, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;大村和正, 白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [
