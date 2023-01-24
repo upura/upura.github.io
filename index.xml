@@ -5,12 +5,58 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2023.01.13) Presentation at NLP2023</title>
+      <link>https://upura.github.io/news/230113/</link>
+      <pubDate>Fri, 13 Jan 2023 15:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230113/</guid>
+      <description>&lt;p&gt;We will present two research work at 2023 annual meeting of the Association for Natural Language Processing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;石原祥太郎 (2023). 事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析.&lt;/li&gt;
+&lt;li&gt;大村和正 (京大), 白井穂乃, 石原祥太郎, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.01.01) Publish a Japanese Kaggle Book</title>
+      <link>https://upura.github.io/news/230101/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230101/</guid>
+      <description>&lt;p&gt;Happy to share that we will publish a new Japanese Kaggle book, focusing on deep learning with image and text. I authored chapters 1 and 2. Chapters 3-5 are the practices of image classification, image retrieval, and text classification, respectively.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2022.12.20) Accepted at BigData 2022 (Industrial &amp; Government Track)</title>
+      <link>https://upura.github.io/news/221220/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/221220/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Industrial &amp;amp; Government Track in 2022 IEEE International Conference on Big Data (BigData 2022).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). (to appear) [
+&lt;a href=&#34;https://bigdataieee.org/BigData2022/AcceptedPapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2022.11.23) Accepted at AACL-IJCNLP 2022</title>
+      <link>https://upura.github.io/news/221123/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/221123/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara*, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, pages 205–216, Online only. Association for Computational Linguistics. (*equal contribution) [
+&lt;a href=&#34;https://www.aacl2022.org/paper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
