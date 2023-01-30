@@ -5,12 +5,23 @@
     <link>https://upura.github.io/news/</link>
       <atom:link href="https://upura.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jan 2023 15:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>(2023.01.26) Presentation at Start Python Club</title>
+      <link>https://upura.github.io/news/230126/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230126/</guid>
+      <description>&lt;p&gt;I will have a presentation introducing 
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a new Japanese Kaggle book&lt;/a&gt; published soon. [
+&lt;a href=&#34;https://startpython.connpass.com/event/270312/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.01.13) Presentation at NLP2023</title>
