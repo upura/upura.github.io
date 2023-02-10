@@ -5,12 +5,25 @@
     <link>https://upura.github.io/tag/newsfeed/</link>
       <atom:link href="https://upura.github.io/tag/newsfeed/index.xml" rel="self" type="application/rss+xml" />
     <description>newsfeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>newsfeed</title>
       <link>https://upura.github.io/tag/newsfeed/</link>
     </image>
+    
+    <item>
+      <title>(2023.02.10) Presentation at CSSJ2023</title>
+      <link>https://upura.github.io/news/230210/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230210/</guid>
+      <description>&lt;p&gt;We will present two research work at 2023 annual meeting of the Society for Computational Social Science of Japan. [
+&lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.01.26) Presentation at Start Python Club</title>
