@@ -148,7 +148,11 @@ Other talks and media coverage can be found
       <guid>https://upura.github.io/projects/talks_and_media/</guid>
       <description>&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』, 
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/ask-me-anything&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AMA (Ask me anything) 『Kaggleに挑む深層学習プログラミングの極意』&lt;/a&gt;, 
+&lt;a href=&#34;https://wandb.connpass.com/event/275849/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;W&amp;amp;B 東京ミートアップ #2&lt;/a&gt;, Mar 22nd, 2023.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/kaggle-book-gokui&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;著者による書籍紹介『Kaggleに挑む深層学習プログラミングの極意』&lt;/a&gt;, 
 &lt;a href=&#34;https://startpython.connpass.com/event/270312/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;みんなのPython勉強会#90&lt;/a&gt;, Feb 16th, 2023.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2022/12/16/202025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle メダリストが話す、データと分析手法の見つけ方&lt;/a&gt;, 
