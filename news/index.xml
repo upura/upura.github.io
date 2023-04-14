@@ -5,12 +5,22 @@
     <link>https://upura.github.io/news/</link>
       <atom:link href="https://upura.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>(2023.04.14) Accepted at IC2S2 2023</title>
+      <link>https://upura.github.io/news/230414/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230414/</guid>
+      <description>&lt;p&gt;Happy to share that our abstract proposal has been accepted at the 9th International Conference on Computational Social Science (IC2S2 2023).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.02.25) Research Award at CSSJ2023</title>

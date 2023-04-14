@@ -5,12 +5,22 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2023.04.14) Accepted at IC2S2 2023</title>
+      <link>https://upura.github.io/news/230414/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230414/</guid>
+      <description>&lt;p&gt;Happy to share that our abstract proposal has been accepted at the 9th International Conference on Computational Social Science (IC2S2 2023).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.02.25) Research Award at CSSJ2023</title>
@@ -101,8 +111,9 @@
       <link>https://upura.github.io/projects/publications/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/publications/</guid>
-      <description>&lt;h2 id=&#34;conference-paper-referred&#34;&gt;Conference Paper (Referred)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). [
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/analysis-and-estimation-of-news-article-reading-time-with-multimodal-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
@@ -545,6 +556,8 @@ Other talks and media coverage can be found
 &lt;a href=&#34;https://cj2022.brown.columbia.edu/proceedings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ishihara et al., CJ 2022&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;User Attribute Prediction (
 &lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ishihara et al., CJ 2020&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Quantifying Diachronic Language Change (
+&lt;a href=&#34;https://www.ic2s2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ishihara et al., IC2S2 2023&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;You can see 
