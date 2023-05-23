@@ -5,12 +5,22 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2023.05.23) Accepted at TrustNLP 2023</title>
+      <link>https://upura.github.io/news/230522/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230522/</guid>
+      <description>&lt;p&gt;A survey paper has been accepted at the TrustNLP workshop at ACL2023. The paper reviewed literature on the memorization properties and training data extraction of Large Language Models, and discussed future directions.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara (2023). Training Data Extraction From Pre-trained Language Models: A Survey. Proceedings of Third Workshop on Trustworthy Natural Language Processing. (to appear)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.04.14) Accepted at IC2S2 2023</title>
@@ -546,7 +556,7 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ishihara et al., AACL-IJCNLP 2022&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Training Data Extraction (Ishihara, ANLP 2023)&lt;/li&gt;
+&lt;li&gt;Training Data Extraction (Ishihara, TrustNLP 2023)&lt;/li&gt;
 &lt;li&gt;Adversarial Validation (
 &lt;a href=&#34;https://sigir-ecom.github.io/ecom2021/accepted-papers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ishihara et al., SIGIR 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
