@@ -19,21 +19,22 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Kaito Majima*, and **Shotaro Ishihara*** (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management  (CIKM 2023). Association for Computing Machinery, Birmingham, UK. (*equal contribution)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science. [
+&lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) (to appear)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science (IC2S2 2023). [
 &lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstract&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/quantifying-diachronic-language-change-via-word-embeddings-analysis-of-social-events-using-11-years-news-articles-in-japanese-and-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2023). Training Data Extraction From Pre-trained Language Models: A Survey. Proceedings of Third Workshop on Trustworthy Natural Language Processing. (to appear) [
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2023). Training Data Extraction From Pre-trained Language Models: A Survey. Proceedings of Third Workshop on Trustworthy Natural Language Processing. [
 &lt;a href=&#34;https://arxiv.org/abs/2305.16157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
+&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/training-data-extraction-from-pre-trained-language-models-a-survey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). [
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/analysis-and-estimation-of-news-article-reading-time-with-multimodal-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;*, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, pages 205–216, Online only. Association for Computational Linguistics. (*equal contribution) [
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;†, Hiromu Takahashi†, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022), pages 205–216, Online only. Association for Computational Linguistics. (†equal contribution) [
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/semantic-shift-stability-efficient-way-to-detect-performance-degradation-of-word-embeddings-and-pre-trained-language-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster, slide&lt;/a&gt; ] [
 &lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022), pages 1208–1214, Seattle, United States. Association for Computational Linguistics. [
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval 2022), pages 1208–1214, Seattle, United States. Association for Computational Linguistics. [
 &lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/poster-nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
@@ -49,7 +50,7 @@
 &lt;a href=&#34;http://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2020). Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &amp;ldquo;Kaggle&amp;rdquo;. Computation + Journalism Symposium 2020. Boston, MA, USA. [
 &lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;* (2017). Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics. In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (*corresponding author) [
+&lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2017). Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics. In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (†corresponding author) [
 &lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/46762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
@@ -171,6 +172,8 @@ Other talks and media coverage can be found
       <guid>https://upura.github.io/projects/talks_and_media/</guid>
       <description>&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;論文紹介 Quantifying attention via dwell time and engagement in a social media browsing environment, 
+&lt;a href=&#34;https://sites.google.com/view/web-socialmedia-study/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ウェブ・ソーシャルメディア論文読み会 第八回&lt;/a&gt;, Aug 24th, 2023.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://speakerdeck.com/upura/web-socialmedia-study-5th&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;論文紹介 Discovering and Categorising Language Biases in Reddit&lt;/a&gt;, 
 &lt;a href=&#34;https://sites.google.com/view/web-socialmedia-study/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ウェブ・ソーシャルメディア論文読み会 第五回&lt;/a&gt;, May 18th, 2023.&lt;/li&gt;
