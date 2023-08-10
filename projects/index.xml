@@ -19,7 +19,8 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) (to appear)&lt;/li&gt;
+&lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) (to appear) [
+&lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science (IC2S2 2023). [
 &lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstract&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/quantifying-diachronic-language-change-via-word-embeddings-analysis-of-social-events-using-11-years-news-articles-in-japanese-and-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
@@ -479,6 +480,8 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h3 id=&#34;applied-machine-learning&#34;&gt;Applied Machine Learning&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Crossword puzzle Generation (
+&lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Editors-in-the-loop Summarization (
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Reading Time Estimation (
