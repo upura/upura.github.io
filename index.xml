@@ -5,12 +5,22 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2023.12.17) Google Cloud Champion Innovator (Cloud AI/ML)</title>
+      <link>https://upura.github.io/news/231218/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/231218/</guid>
+      <description>&lt;p&gt;I am honored to be nominated as a 
+&lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud Champion Innovator&lt;/a&gt; (Cloud AI/ML).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.08.04) Accepted at CIKM 2023</title>
@@ -255,6 +265,8 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud Champion Innovator&lt;/a&gt; (Cloud AI/ML), Dec 2023.&lt;/li&gt;
 &lt;li&gt;第2回計算社会科学会大会優秀賞. [
 &lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/#award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [
