@@ -52,16 +52,5 @@
 </description>
     </item>
     
-    <item>
-      <title>(2023.01.01) Publish a Japanese Kaggle Book</title>
-      <link>https://upura.github.io/news/230101/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/230101/</guid>
-      <description>&lt;p&gt;Happy to share that we will publish a new Japanese Kaggle book, focusing on deep learning with image and text. I authored chapters 1 and 2. Chapters 3-5 are the practices of image classification, image retrieval, and text classification, respectively.&lt;/p&gt;
-&lt;p&gt;[
-&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
