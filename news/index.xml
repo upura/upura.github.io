@@ -5,12 +5,32 @@
     <link>https://upura.github.io/news/</link>
       <atom:link href="https://upura.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>(2024.04.25) Accepted at TrustNLP 2024</title>
+      <link>https://upura.github.io/news/240425/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240425/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the TrustNLP workshop at NAACL2024.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.04.24) Our research are featured in a press release</title>
+      <link>https://upura.github.io/news/240424/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240424/</guid>
+      <description>&lt;p&gt;Our research on the opportunities and challenges of pre-trained language models was highlighted.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34;&gt;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2023.12.17) Google Cloud Champion Innovator (Cloud AI/ML)</title>
