@@ -18,7 +18,8 @@
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/news/240425/</guid>
       <description>&lt;p&gt;Happy to share that our paper has been accepted at the TrustNLP workshop at NAACL2024.&lt;/p&gt;
-&lt;p&gt;Shotaro Ishihara (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/p&gt;
 </description>
     </item>
     
@@ -164,7 +165,8 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) [
 &lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
 &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
@@ -687,30 +689,34 @@ Other talks and media coverage can be found
       <link>https://upura.github.io/projects/research_interest/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/research_interest/</guid>
-      <description>&lt;p&gt;My research interest is to explore the opportunities and challenges of pre-trained language models in the news media.&lt;/p&gt;
+      <description>&lt;p&gt;My research interest is to explore the opportunities and challenges of pre-trained language models (PLMs) in the news media.&lt;/p&gt;
 &lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
-&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt;, 
+&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Training Data Extraction (
-&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Adversarial Validation (
-&lt;a href=&#34;https://sigir-ecom.github.io/ecom2021/accepted-papers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGIR 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;, 
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2024 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;applied-machine-learning&#34;&gt;Applied Machine Learning&lt;/h3&gt;
+&lt;h3 id=&#34;building-and-applying-plms&#34;&gt;Building and Applying PLMs&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Crossword puzzle Generation (
+&lt;li&gt;Building domain-specific PLMs 
+&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PLMs for news industry:
+&lt;ul&gt;
+&lt;li&gt;Crossword puzzle generation (
 &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Editors-in-the-loop Summarization (
+&lt;li&gt;Editors-in-the-loop summarization (
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Reading Time Estimation (
+&lt;li&gt;Reading time estimation (
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Multilingual News Similarity Scoring (
+&lt;li&gt;Multilingual news similarity scoring (
 &lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2022 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Next Item Recommendation (
 &lt;a href=&#34;https://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WSDM 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Quantifying Diachronic Language Change (
-&lt;a href=&#34;https://www.ic2s2.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;You can see 
