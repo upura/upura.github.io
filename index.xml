@@ -5,12 +5,32 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2024.07.15) Accepted at INLG 2024</title>
+      <link>https://upura.github.io/news/240715/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240715/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at INLG 2024.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. In Proceedings of the 17th International Natural Language Generation Conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.07.10) Accepted at PyCon JP 2024</title>
+      <link>https://upura.github.io/news/240710/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240710/</guid>
+      <description>&lt;p&gt;Happy to share that our talk proposal has been accepted at PyCon JP 2024.&lt;/p&gt;
+&lt;p&gt;「巨人の肩の上」で自作ライブラリを作る技術.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2024.05.22) Accepted at Journal of Natural Language Processing</title>
@@ -179,6 +199,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. In Proceedings of the 17th International Natural Language Generation Conference.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
 &lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) [
@@ -222,6 +243,7 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024). 「巨人の肩の上」で自作ライブラリを作る技術, PyCon JP 2024, Sep 27-28th, 2024.&lt;/li&gt;
 &lt;li&gt;阿波智彦, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024) 日経「星新一賞」と生成AI. 情報処理学会・学会誌「情報処理」. [
 &lt;a href=&#34;https://note.com/shikajiro/n/n62efbc939711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024). 見出し意味具体化に向けた日本語ベンチマークの構築. 言語処理学会第30回年次大会発表論文集. [
