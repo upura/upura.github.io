@@ -5,12 +5,22 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/</link>
     </image>
+    
+    <item>
+      <title>(2024.08.07) Publishing Japanese MLOps Book</title>
+      <link>https://upura.github.io/news/240807/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240807/</guid>
+      <description>&lt;p&gt;I was involved in one chapter of a book in Japanese on MLOps.
+&lt;a href=&#34;https://www.amazon.co.jp/dp/4065369568&#34;&gt;https://www.amazon.co.jp/dp/4065369568&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2024.07.15) Accepted at INLG 2024</title>
