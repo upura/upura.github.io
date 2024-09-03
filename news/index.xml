@@ -5,12 +5,22 @@
     <link>https://upura.github.io/news/</link>
       <atom:link href="https://upura.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>(2024.09.03) Accepted at Journal of Natural Language Processing</title>
+      <link>https://upura.github.io/news/240903/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240903/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2024.08.07) Publishing Japanese MLOps Book</title>
