@@ -768,11 +768,16 @@ Other talks and media coverage can be found
 &lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
-&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt;, 
-&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Training Data Extraction (
-&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;, 
-&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2024 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; Journal of Natural Language Processing)&lt;/li&gt;
+&lt;li&gt;Training data extraction
+&lt;ul&gt;
+&lt;li&gt;Survey paper (
+&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Experiments on Japanese newspaper (
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;building-and-applying-plms&#34;&gt;Building and Applying PLMs&lt;/h3&gt;
 &lt;ul&gt;
@@ -782,8 +787,6 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;Crossword puzzle generation (
 &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Editors-in-the-loop summarization (
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Reading time estimation (
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Multilingual news similarity scoring (
