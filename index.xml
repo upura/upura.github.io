@@ -5,7 +5,7 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
@@ -13,12 +13,15 @@
     </image>
     
     <item>
-      <title>(2024.09.03) Accepted at Journal of Natural Language Processing</title>
-      <link>https://upura.github.io/news/240903/</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/240903/</guid>
+      <title>(2024.09.11) Two papars has been accepted at Journal of Natural Language Processing</title>
+      <link>https://upura.github.io/news/240911/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240911/</guid>
       <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -215,6 +218,7 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
 &lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号.&lt;/li&gt;
 &lt;/ul&gt;
