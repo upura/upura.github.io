@@ -21,14 +21,18 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
-&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号.&lt;/li&gt;
+&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号. [
+&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jnlp/31/3/31_1330/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. Proceedings of the 17th International Natural Language Generation Conference. [
-&lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
+&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
+&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-and-detecting-training-data-of-pre-trained-language-models-using-japanese-newspaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
-&lt;a href=&#34;https://arxiv.org/abs/2404.17143v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
+&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-of-domain-specific-pre-trained-language-models-using-japanese-newspaper-and-paywalls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) [
 &lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
 &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
@@ -203,11 +207,14 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;ニュースメディアにおける事前学習済みモデルの可能性と課題, 
 &lt;a href=&#34;https://ibisml.org/ibis2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第27回情報論的学習理論ワークショップ (IBIS2024)&lt;/a&gt; 企画セッション3：ビジネスと機械学習, Nov 7th, 2024.&lt;/li&gt;
-&lt;li&gt;第 2 部 11 章「大規模言語モデルの研究開発から実運用に向けて」に向けて, 
+&lt;li&gt;「文理」の壁を越えて：データサイエンスが変えるニュースメディア, 東海高校「研究&amp;amp;仕事紹介講座」, Oct 31st, 2024.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/mlops-book-chapter-11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第 2 部 11 章「大規模言語モデルの研究開発から実運用に向けて」に向けて&lt;/a&gt;, 
 &lt;a href=&#34;https://mlops.connpass.com/event/328296/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第 45 回 『事例でわかる MLOps 機械学習の成果をスケールさせる処方箋』出版記念 MLOps 勉強会&lt;/a&gt;, Oct 2nd, 2024.&lt;/li&gt;
 &lt;li&gt;「巨人の肩の上」で自作ライブラリを作る技術, 
 &lt;a href=&#34;https://2024.pycon.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyCon JP 2024&lt;/a&gt;, Sep 28th, 2024.&lt;/li&gt;
-&lt;li&gt;日本経済新聞社 x 自然言語処理, 
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/yans2024-nikkei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本経済新聞社 x 自然言語処理&lt;/a&gt;, 
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第19回YANSシンポジウム&lt;/a&gt; スポンサーセッション, Sep 5th, 2024.&lt;/li&gt;
 &lt;li&gt;テキスト生成 AI の基礎と金融特化モデルの開発, 日経金融工学研究所年末セミナー, Dec 7th, 2023.&lt;/li&gt;
 &lt;li&gt;
@@ -587,6 +594,7 @@ Other talks and media coverage can be found
 &lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;Hallucination analysis on domain-specific PLMs (Journal of Natural Language Processing)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;building-and-applying-plms&#34;&gt;Building and Applying PLMs&lt;/h3&gt;
 &lt;ul&gt;
