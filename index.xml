@@ -218,54 +218,55 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
-&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2024). &lt;strong&gt;Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. [
+&lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;u&gt;石原祥太郎&lt;/u&gt;, 山田剛, 進藤裕之 (2024). &lt;strong&gt;企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 3号. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/jnlp/31/3/31_1330/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. Proceedings of the 17th International Natural Language Generation Conference. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; and Hiromu Takahashi (2024). &lt;strong&gt;Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper&lt;/strong&gt;. &lt;em&gt;Proceedings of the 17th International Natural Language Generation Conference (INLG 2024).&lt;/em&gt; [
 &lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
 &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
-&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-and-detecting-training-data-of-pre-trained-language-models-using-japanese-newspaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
+&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-and-detecting-training-data-of-pre-trained-language-models-using-japanese-newspaper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ] (acceptance rate: 0.58=57/98)&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2024). &lt;strong&gt;Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls&lt;/strong&gt;. &lt;em&gt;Fourth Workshop on Trustworthy Natural Language Processing (Non-archival track)&lt;/em&gt;. [
 &lt;a href=&#34;https://arxiv.org/abs/2404.17143v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
-&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-of-domain-specific-pre-trained-language-models-using-japanese-newspaper-and-paywalls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). Association for Computing Machinery. (†equal contribution) [
+&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-memorization-of-domain-specific-pre-trained-language-models-using-japanese-newspaper-and-paywalls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ] (acceptance rate: 0.91=40/44)&lt;/li&gt;
+&lt;li&gt;Kaito Majima†, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt;† (2023). &lt;strong&gt;Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem&lt;/strong&gt;. &lt;em&gt;Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)&lt;/em&gt;. (†equal contribution) [
 &lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
-&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science (IC2S2 2023). [
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] (acceptance rate: 0.27=152/554)&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Hiromu Takahashi, and Hono Shirai (2023). &lt;strong&gt;Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English&lt;/strong&gt;. &lt;em&gt;9th International Conference on Computational Social Science (IC2S2 2023).&lt;/em&gt; [
 &lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstract&lt;/a&gt; ] [
-&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-diachronic-language-change-via-word-embeddings-analysis-of-social-events-using-11-years-news-articles-in-japanese-and-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt; (2023). Training Data Extraction From Pre-trained Language Models: A Survey. Proceedings of Third Workshop on Trustworthy Natural Language Processing. [
+&lt;a href=&#34;https://speakerdeck.com/upura/quantifying-diachronic-language-change-via-word-embeddings-analysis-of-social-events-using-11-years-news-articles-in-japanese-and-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ] (acceptance rate: 0.77=711/918)&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2023). &lt;strong&gt;Training Data Extraction From Pre-trained Language Models: A Survey&lt;/strong&gt;. &lt;em&gt;Proceedings of Third Workshop on Trustworthy Natural Language Processing&lt;/em&gt;. [
 &lt;a href=&#34;https://arxiv.org/abs/2305.16157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
 &lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
-&lt;a href=&#34;https://speakerdeck.com/upura/training-data-extraction-from-pre-trained-language-models-a-survey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). [
+&lt;a href=&#34;https://speakerdeck.com/upura/training-data-extraction-from-pre-trained-language-models-a-survey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ] (acceptance rate: 0.27=147/554)&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Yasufumi Nakama (2022). &lt;strong&gt;Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning&lt;/strong&gt;. &lt;em&gt;Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track)&lt;/em&gt;. [
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/analysis-and-estimation-of-news-article-reading-time-with-multimodal-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;†, Hiromu Takahashi†, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022), pages 205–216, Online only. Association for Computational Linguistics. (†equal contribution) [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;†, Hiromu Takahashi†, and Hono Shirai (2022). &lt;strong&gt;Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)&lt;/em&gt; (†equal contribution) [
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/semantic-shift-stability-efficient-way-to-detect-performance-degradation-of-word-embeddings-and-pre-trained-language-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster, slide&lt;/a&gt; ] [
-&lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Hono Shirai (2022). Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity. In Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval 2022), pages 1208–1214, Seattle, United States. Association for Computational Linguistics. [
+&lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ] (acceptance rate: 0.72=41/57)&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Hono Shirai (2022). &lt;strong&gt;Nikkei at SemEval-2022 Task 8: Exploring BERT-based Bi-Encoder Approach for Pairwise Multilingual News Article Similarity&lt;/strong&gt;. &lt;em&gt;Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval 2022)&lt;/em&gt;. [
 &lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/poster-nikkei-at-semeval-2022-task-8-exploring-bert-based-bi-encoder-approach-for-pairwise-multilingual-news-article-similarity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, and Yasufumi Nakama (2022). Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents. In Proceedings of Computation + Journalism Conference 2022. New York, NY, USA, 5 pages. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Yasufumi Nakama (2022). &lt;strong&gt;Generating a Pairwise Dataset for Click-through Rate Prediction of News Articles Considering Positions and Contents&lt;/strong&gt;. &lt;em&gt;Proceedings of Computation + Journalism Conference 2022&lt;/em&gt;. [
 &lt;a href=&#34;https://cj2022.brown.columbia.edu/proceedings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/generating-a-pairwise-dataset-for-click-through-rate-prediction-of-news-articles-considering-positions-and-contents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Yuta Matsuda, and Norihiko Sawa (2021). Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression. In Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData, pp. 3522-24. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Yuta Matsuda, and Norihiko Sawa (2021). &lt;strong&gt;Editors-in-the-loop News Article Summarization Framework with Sentence Selection and Compression&lt;/strong&gt;. &lt;em&gt;Proceedings of the 5th IEEE Workshop on Human-in-the-Loop Methods and Future of Work in BigData&lt;/em&gt;. [
 &lt;a href=&#34;https://ieeexplore.ieee.org/document/9671300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Shuhei Goda, and Hidehisa Arai (2021). Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction. In Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21). New York, NY, USA, 5 pages. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Shuhei Goda, and Hidehisa Arai (2021). &lt;strong&gt;Adversarial Validation to Select Validation Data for Evaluating Performance in E-commerce Purchase Intent Prediction&lt;/strong&gt;. &lt;em&gt;Proceedings of the ACM SIGIR Workshop on eCommerce (SIGIR eCom’21)&lt;/em&gt;. [
 &lt;a href=&#34;https://sigir-ecom.github.io/ecom2021/accepted-papers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/adversarial-validation-to-select-validation-data-for-evaluating-performance-in-e-commerce-purchase-intent-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Shuhei Goda, Yuya Matsumura (2021). Weighted Averaging of Various LSTM Models for Next Destination Recommendation, In Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021), March 12, 2021, Jerusalem, Israel, pp. 46-49. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Shuhei Goda, Yuya Matsumura (2021). &lt;strong&gt;Weighted Averaging of Various LSTM Models for Next Destination Recommendation&lt;/strong&gt;, &lt;em&gt;Proceedings of the Workshop on Web Tourism co-located with the 14th ACM International WSDM Conference (WSDM 2021)&lt;/em&gt;. [
 &lt;a href=&#34;http://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2020). Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &amp;ldquo;Kaggle&amp;rdquo;. Computation + Journalism Symposium 2020. Boston, MA, USA. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Norihiko Sawa (2020). &lt;strong&gt;Age Prediction of News Subscribers Using Machine Learning: Case Study of Hosting Worldwide Data Analysis Competition &amp;ldquo;Kaggle&amp;rdquo;&lt;/strong&gt;. &lt;em&gt;Computation + Journalism Symposium 2020&lt;/em&gt;. [
 &lt;a href=&#34;https://cj2021.northeastern.edu/research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2017). Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics. In Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering, Singapore, pp. 713–720. (†corresponding author) [
+&lt;li&gt;Kazuo Hiekata, Taiga Mitsuyuki, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;† (2017). &lt;strong&gt;Design Method of Remote Monitoring Service for Elderly Considering Community Characteristics&lt;/strong&gt;. &lt;em&gt;Proceedings of the 24th ISPE Inc. International Conference on Transdisciplinary Engineering (TE 2017)&lt;/em&gt;. (†corresponding author) [
 &lt;a href=&#34;http://ebooks.iospress.nl/volumearticle/46762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
@@ -273,98 +274,100 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024). 「巨人の肩の上」で自作ライブラリを作る技術, PyCon JP 2024, Sep 27-28th, 2024.&lt;/li&gt;
-&lt;li&gt;阿波智彦, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024) 日経「星新一賞」と生成AI. 情報処理学会・学会誌「情報処理」2024年9月号. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2024). &lt;strong&gt;「巨人の肩の上」で自作ライブラリを作る技術&lt;/strong&gt;, &lt;em&gt;PyCon JP 2024&lt;/em&gt;. [
+&lt;a href=&#34;https://speakerdeck.com/upura/pyconjp2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ] (acceptance rate: 0.23=45/193)&lt;/li&gt;
+&lt;li&gt;阿波智彦, &lt;u&gt;石原祥太郎&lt;/u&gt; (2024) &lt;strong&gt;日経「星新一賞」と生成AI&lt;/strong&gt;. &lt;em&gt;情報処理学会・学会誌「情報処理」2024年9月号&lt;/em&gt;. [
 &lt;a href=&#34;https://note.com/ipsj/n/n68656a5f3820&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2024). 見出し意味具体化に向けた日本語ベンチマークの構築. 言語処理学会第30回年次大会発表論文集. [
+&lt;li&gt;白井穂乃, &lt;u&gt;石原祥太郎&lt;/u&gt; (2024). &lt;strong&gt;見出し意味具体化に向けた日本語ベンチマークの構築&lt;/strong&gt;. &lt;em&gt;言語処理学会第30回年次大会発表論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-11.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 日経企業IDリンキングのための類似度ベースELシステムの構築と分析. 言語処理学会第30回年次大会発表論文集. [
+&lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;u&gt;石原祥太郎&lt;/u&gt;, 山田剛, 進藤裕之 (2024). &lt;strong&gt;日経企業IDリンキングのための類似度ベースELシステムの構築と分析&lt;/strong&gt;. &lt;em&gt;言語処理学会第30回年次大会発表論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武 (2023). ニュース記事の逆ピラミッド構造は読みやすさ評価に使えるか. NLP若手の会 (YANS) 第18回シンポジウム.&lt;/li&gt;
-&lt;li&gt;村田栄樹, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2023). ドメイン別に訓練した要約モデルにおけるHallucinationの内在・外在要因分析. NLP若手の会 (YANS) 第18回シンポジウム.&lt;/li&gt;
-&lt;li&gt;増田太郎, 櫻井亮佑, 桐井智弘, 渡邊英介, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2023). 企業・業界動向抽出のための経済情報ラベルの定義とタグ付きコーパスの構築. NLP若手の会 (YANS) 第18回シンポジウム.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 中間康文 (2023). マルチモーダル機械学習によるニュース記事の閲覧時間予測. 2023年度人工知能学会全国大会（第37回）論文集. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2023). &lt;strong&gt;ニュース記事の逆ピラミッド構造は読みやすさ評価に使えるか&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第18回シンポジウム&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;村田栄樹, &lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;ドメイン別に訓練した要約モデルにおけるHallucinationの内在・外在要因分析&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第18回シンポジウム&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;増田太郎, 櫻井亮佑, 桐井智弘, 渡邊英介, &lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;企業・業界動向抽出のための経済情報ラベルの定義とタグ付きコーパスの構築&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第18回シンポジウム&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 中間康文 (2023). &lt;strong&gt;マルチモーダル機械学習によるニュース記事の閲覧時間予測&lt;/strong&gt;. &lt;em&gt;2023年度人工知能学会全国大会（第37回）論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3Xin458/_article/-char/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2023). 事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析. 言語処理学会第29回年次大会発表論文集. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析&lt;/strong&gt;. &lt;em&gt;言語処理学会第29回年次大会発表論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q2-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;大村和正 (京大), 白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出. 言語処理学会第29回年次大会発表論文集. [
+&lt;li&gt;大村和正 (京大), 白井穂乃, &lt;u&gt;石原祥太郎&lt;/u&gt;, 澤紀彦 (2023). &lt;strong&gt;極性と重要度を考慮した決算短信からの業績要因文の抽出&lt;/strong&gt;. &lt;em&gt;言語処理学会第29回年次大会発表論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D11-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023). (大会優秀賞 [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2023). &lt;strong&gt;単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析&lt;/strong&gt;. &lt;em&gt;第2回計算社会科学会大会(CSSJ2023)&lt;/em&gt;. (大会優秀賞 [
 &lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/#award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ])&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). 国際会議参加報告 AACL-IJCNLP 2022. 第24回音声言語シンポジウム・第9回自然言語処理シンポジウム. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2022). &lt;strong&gt;国際会議参加報告 AACL-IJCNLP 2022&lt;/strong&gt;. &lt;em&gt;第24回音声言語シンポジウム・第9回自然言語処理シンポジウム&lt;/em&gt;. [
 &lt;a href=&#34;https://speakerdeck.com/upura/aacl-ijcnlp-2022-report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;梶川怜恩, 鈴木刀磨, 二宮大空, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). LightGBMのランク学習による商品レビュー評価. NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2022). &lt;strong&gt;実践：日本語文章生成　Transformersライブラリで学ぶ実装の守破離&lt;/strong&gt;, &lt;em&gt;PyCon JP 2022&lt;/em&gt;. [
+&lt;a href=&#34;https://2022.pycon.jp/en/timetable/?id=EEA8FG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ] (acceptance rate: 0.38=45/120)&lt;/li&gt;
+&lt;li&gt;梶川怜恩, 鈴木刀磨, 二宮大空, &lt;u&gt;石原祥太郎&lt;/u&gt; (2022). &lt;strong&gt;LightGBMのランク学習による商品レビュー評価&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第17回シンポジウムハッカソン最終成果報告&lt;/em&gt;. [
 &lt;a href=&#34;https://github.com/upura/yans2022-hackathon-team-natural&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]（最終評価スコア1位, Applied Scientist賞 [
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2022report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]）&lt;/li&gt;
-&lt;li&gt;馬嶋海斗, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2022). ニュース用語を含むヒント付きクロスワードパズルの自動生成. NLP若手の会 (YANS) 第17回シンポジウム.（奨励賞 [
+&lt;li&gt;馬嶋海斗, &lt;u&gt;石原祥太郎&lt;/u&gt; (2022). &lt;strong&gt;ニュース用語を含むヒント付きクロスワードパズルの自動生成&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第17回シンポジウム&lt;/em&gt;.（奨励賞 [
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2022report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 中間康文 (2022). 新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討. 2022年度人工知能学会全国大会（第36回）論文集. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 中間康文 (2022). &lt;strong&gt;新聞記事のクリック率予測に向けたペアワイズ学習用データセットの構築手法の検討&lt;/strong&gt;. &lt;em&gt;2022年度人工知能学会全国大会（第36回）論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_4H1OS2a05/_article/-char/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/upura/jsai2022-generating-pairwise-dataset-for-ctr-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;高橋寛武, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2022). 単語分散表現を用いた新型コロナウイルスによる意味変化検出. 言語処理学会第28回年次大会発表論文集. [
+&lt;li&gt;高橋寛武, &lt;u&gt;石原祥太郎&lt;/u&gt;, 白井穂乃 (2022). &lt;strong&gt;単語分散表現を用いた新型コロナウイルスによる意味変化検出&lt;/strong&gt;. &lt;em&gt;言語処理学会第28回年次大会発表論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;大村和正, 白井穂乃, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2022). 決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成. 言語処理学会第28回年次大会発表論文集. [
+&lt;li&gt;大村和正, 白井穂乃, &lt;u&gt;石原祥太郎&lt;/u&gt;, 澤紀彦 (2022). &lt;strong&gt;決算短信からの業績要因文の抽出に向けた業績発表記事からの訓練データの生成&lt;/strong&gt;. &lt;em&gt;言語処理学会第28回年次大会発表論文集.&lt;/em&gt; [
 &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;増田太郎, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 吉田勇太 (2022). 企業の業界分類予測における共変量シフト問題の抑制. 第14回データ工学と情報マネジメントに関するフォーラム. [
+&lt;li&gt;増田太郎, &lt;u&gt;石原祥太郎&lt;/u&gt;, 吉田勇太 (2022). &lt;strong&gt;企業の業界分類予測における共変量シフト問題の抑制&lt;/strong&gt;. &lt;em&gt;第14回データ工学と情報マネジメントに関するフォーラム&lt;/em&gt;. [
 &lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/G24-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://speakerdeck.com/taro_masuda/qi-ye-falseye-jie-fen-lei-yu-ce-niokerugong-bian-liang-sihutowen-ti-falseyi-zhi-81490d5a-1447-43fa-855a-cf6ad23f4db8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;山田健太, 山本真吾, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2022). F√V:オンラインニュースメディアにおける解約予測指標の開発と活用. 第14回データ工学と情報マネジメントに関するフォーラム. [
+&lt;li&gt;山田健太, 山本真吾, &lt;u&gt;石原祥太郎&lt;/u&gt;, 澤紀彦 (2022). &lt;strong&gt;F√V:オンラインニュースメディアにおける解約予測指標の開発と活用&lt;/strong&gt;. &lt;em&gt;第14回データ工学と情報マネジメントに関するフォーラム&lt;/em&gt;. [
 &lt;a href=&#34;https://proceedings-of-deim.github.io/DEIM2022/papers/I44-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2021). Pythonによるアクセスログ解析入門, PyCon JP 2021, Oct 15-16th, 2021. [
-&lt;a href=&#34;https://speakerdeck.com/upura/tutorial-on-access-log-analysis-by-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ], [
-&lt;a href=&#34;https://youtu.be/_EqrNN5Ld-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;植田暢大、高本大輝、&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2021). 森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み. NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告 [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2021). &lt;strong&gt;Pythonによるアクセスログ解析入門&lt;/strong&gt;, &lt;em&gt;PyCon JP 2021&lt;/em&gt;. [
+&lt;a href=&#34;https://2021.pycon.jp/time-table/?id=269506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ] (acceptance rate: 0.38=45/120)&lt;/li&gt;
+&lt;li&gt;植田暢大、高本大輝、&lt;u&gt;石原祥太郎&lt;/u&gt; (2021). &lt;strong&gt;森羅2019システム結果によるリーダーボード探索とBERTベースラインの改善に向けた取り組み&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第16回シンポジウムハッカソン最終成果報告&lt;/em&gt;. [
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2021report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ] [
 &lt;a href=&#34;https://github.com/upura/yans2021-hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;石原慧人, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 白井穂乃 (2021). BertSumを用いた日本語ニュース記事の抽象型要約手法の検討. 2021年度人工知能学会全国大会（第35回）論文集. [
+&lt;li&gt;石原慧人, &lt;u&gt;石原祥太郎&lt;/u&gt;, 白井穂乃 (2021). &lt;strong&gt;BertSumを用いた日本語ニュース記事の抽象型要約手法の検討&lt;/strong&gt;. &lt;em&gt;2021年度人工知能学会全国大会（第35回）論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D4OS3c02/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 澤紀彦 (2021). MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約. 2021年度人工知能学会全国大会（第35回）論文集. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 澤紀彦 (2021). &lt;strong&gt;MMRによる文選択とTF-IDFによる文圧縮を用いたニュース記事要約&lt;/strong&gt;. &lt;em&gt;2021年度人工知能学会全国大会（第35回）論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_1D2OS3a03/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] ( 2021年度人工知能学会全国大会優秀賞 [
 &lt;a href=&#34;https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ])&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Norihiko Sawa (2021). Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom. Computation + Journalism Symposium 2021.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). Pythonで機械学習コンペティション「Kaggle」をはじめよう, Scipy Japan 2020, Oct 30th, 2020. [
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Norihiko Sawa (2021). &lt;strong&gt;Proposal for Extractive Summarization Method of News Articles and Collaboration with Editors in Newsroom&lt;/strong&gt;. &lt;em&gt;Computation + Journalism Symposium 2021&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2020). &lt;strong&gt;Pythonで機械学習コンペティション「Kaggle」をはじめよう&lt;/strong&gt;, &lt;em&gt;Scipy Japan 2020&lt;/em&gt;. [
 &lt;a href=&#34;https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ] [
 &lt;a href=&#34;https://github.com/upura/scipy-japan-2020-kaggle-tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2020). 新聞記事での共起回数を用いた関連企業の抽出. NLP若手の会 (YANS) 第15回シンポジウム, 2020年9月23日.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;, Asami Matsumoto (2020). Stacked Generalization for More Accurate Prediction of Patient Survival, WiDS Datathon 2020 Excellence in Research Award, Apr 30, 2020. [
-&lt;a href=&#34;https://drive.google.com/file/d/1JME4R7Cw2rHyFUI0Il297XP8gP3GuVtA/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;稗方和夫, 満行泰河, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2017). コミュニティの特徴を考慮した見守りサービス設計手法の開発, 第８回高齢社会デザイン研究発表会, 2017年6月19日. ( 2018年度山下記念研究賞 [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2020). &lt;strong&gt;新聞記事での共起回数を用いた関連企業の抽出&lt;/strong&gt;. &lt;em&gt;NLP若手の会 (YANS) 第15回シンポジウム&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Asami Matsumoto (2020). &lt;strong&gt;Stacked Generalization for More Accurate Prediction of Patient Survival&lt;/strong&gt;. &lt;em&gt;WiDS Datathon 2020 Excellence in Research Award&lt;/em&gt;. [
+&lt;a href=&#34;https://upura.github.io/pdf/wids_2020_stacking.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;稗方和夫, 満行泰河, &lt;u&gt;石原祥太郎&lt;/u&gt; (2017). &lt;strong&gt;コミュニティの特徴を考慮した見守りサービス設計手法の開発&lt;/strong&gt;, &lt;em&gt;第８回高齢社会デザイン研究発表会&lt;/em&gt;. ( 2018年度山下記念研究賞 [
 &lt;a href=&#34;https://www.ipsj.or.jp/award/yamasita2018-detail.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ])&lt;/li&gt;
-&lt;li&gt;和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2016). 学生突撃レポート 港湾空港技術研究所. 咸臨:日本船舶海洋工学会誌, Vol. 68, pp. 42-45. [
+&lt;li&gt;和中真之介, 後藤拓矢, 馬目信人, 伊藤航大, 岡田航太, &lt;u&gt;石原祥太郎&lt;/u&gt; (2016). &lt;strong&gt;学生突撃レポート 港湾空港技術研究所&lt;/strong&gt;. &lt;em&gt;咸臨:日本船舶海洋工学会誌&lt;/em&gt;, Vol. 68, pp. 42-45. [
 &lt;a href=&#34;https://ci.nii.ac.jp/naid/40020991735/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;小嵜耕平, 秋葉拓哉, 林孝紀, &lt;strong&gt;石原祥太郎&lt;/strong&gt; (2023). Kaggleに挑む深層学習プログラミングの極意, 講談社, 2023年1月31日. [
-&lt;a href=&#34;https://www.amazon.co.jp/dp/4065305136/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;Abhishek Thakur (著), &lt;strong&gt;石原祥太郎&lt;/strong&gt; (翻訳) (2021). Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ, マイナビ出版, 2021年8月24日. [
+&lt;li&gt;小嵜耕平, 秋葉拓哉, 林孝紀, &lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;Kaggleに挑む深層学習プログラミングの極意&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. [
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;Abhishek Thakur (著), &lt;u&gt;石原祥太郎&lt;/u&gt; (翻訳) (2021). &lt;strong&gt;Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ&lt;/strong&gt;. &lt;em&gt;マイナビ出版&lt;/em&gt;. [
 &lt;a href=&#34;https://book.mynavi.jp/ec/products/detail/id=123641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田秀樹 (2020). PythonではじめるKaggleスタートブック, 講談社, 2020年3月17日. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田秀樹 (2020). &lt;strong&gt;PythonではじめるKaggleスタートブック&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. [
 &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5190067.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ] [
 &lt;a href=&#34;http://books.gotop.com.tw/v_ACD021100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chinese&lt;/a&gt; ] [
 &lt;a href=&#34;http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&amp;amp;mallGb=KOR&amp;amp;barcode=9791190665841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Korean&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;book-section&#34;&gt;Book Section&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;杉山阿聖, 太田満久, 久井裕貴 (編著) (2024). 大規模言語モデルの研究開発から実運用に向けて, 事例でわかるMLOps 機械学習の成果をスケールさせる処方箋 11章, 2024年9月30日. [
-&lt;a href=&#34;https://www.amazon.co.jp/dp/4065369568&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2023). 単語の意味変化の定量化と大規模言語モデルへの応用, Nikkei Development Book VOL.4 第1章, 技術書典14, 2023年5月21日. [
+&lt;li&gt;杉山阿聖, 太田満久, 久井裕貴 (編著) (2024). &lt;strong&gt;大規模言語モデルの研究開発から実運用に向けて&lt;/strong&gt;, 事例でわかるMLOps 機械学習の成果をスケールさせる処方箋 11章. &lt;em&gt;講談社&lt;/em&gt;. [
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5369562.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;単語の意味変化の定量化と大規模言語モデルへの応用&lt;/strong&gt;, Nikkei Development Book VOL.4 第1章. &lt;em&gt;技術書典14&lt;/em&gt;. [
 &lt;a href=&#34;https://techbookfest.org/product/4LLNW3XwneRdm0CGqtPdJZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). 機械学習の性能を「正しく」見積もる, Nikkei Development Book VOL.3 第1章, 技術書典7, 2019年9月22日. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2019). &lt;strong&gt;機械学習の性能を「正しく」見積もる&lt;/strong&gt;, Nikkei Development Book VOL.3 第1章. &lt;em&gt;技術書典7&lt;/em&gt;. [
 &lt;a href=&#34;https://techbookfest.org/event/tbf07&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2019). データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜, Nikkei Development Book VOL.2 第1章, 技術書典6, 2019年4月14日. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2019). &lt;strong&gt;データアナリストが競技プログラミングで学んだこと〜「⽇経コン」を題材に〜&lt;/strong&gt;, Nikkei Development Book VOL.2 第1章. &lt;em&gt;技術書典6&lt;/em&gt;. [
 &lt;a href=&#34;https://note.com/nikkei_staff/n/neeae5e42c9f7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt; (2018). 機械学習を用いた日経電子版Proのユーザ分析, Nikkei Development Book 第1章, 技術書典5, 2018年10月8日. [
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2018). &lt;strong&gt;機械学習を用いた日経電子版Proのユーザ分析&lt;/strong&gt;, Nikkei Development Book 第1章. &lt;em&gt;技術書典5&lt;/em&gt;. [
 &lt;a href=&#34;https://note.com/nikkei_staff/n/n4d5253dbd58d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;thesis&#34;&gt;Thesis&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;コミュニティの特徴を考慮した見守りサービス設計手法の開発, Graduation thesis in Department of Systems Innovation, Faculty of Engineering, The University of Tokyo, Mar 24th, 2017.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コミュニティの特徴を考慮した見守りサービス設計手法の開発&lt;/strong&gt;, &lt;em&gt;Graduation thesis in Department of Systems Innovation, Faculty of Engineering, The University of Tokyo&lt;/em&gt;, Mar 24th, 2017.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud Champion Innovator&lt;/a&gt; (Cloud AI/ML), Dec 2023.&lt;/li&gt;
+&lt;li&gt;Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023. [
+&lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;第2回計算社会科学会大会優秀賞. [
 &lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/#award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;NLP若手の会 (YANS) 第17回シンポジウム ハッカソン Applied Scientist賞. [
@@ -387,13 +390,6 @@ Other talks and media coverage can be found
 &lt;li&gt;一般社団法人人工知能学会企画委員会, April 2024-. [
 &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;東京大学グローバル消費インテリジェンス寄付講座：第2期 Data Science Online Course, 東京大学工学系研究科TMI グローバル消費インテリジェンス寄付講座 松尾研究室, Oct 10, 2017 - Mar 12th, 2018. [
-&lt;a href=&#34;https://gci.t.u-tokyo.ac.jp/dsonline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;GTL Systems Approach Workshop at MIT, Global Teamwork Lab, Mar 17-21, 2017. [
-&lt;a href=&#34;https://www.k.u-tokyo.ac.jp/en/information/category/event/6407.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -410,7 +406,8 @@ Other talks and media coverage can be found
 &lt;li&gt;
 &lt;a href=&#34;https://speakerdeck.com/upura/mlops-book-chapter-11&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第 2 部 11 章「大規模言語モデルの研究開発から実運用に向けて」に向けて&lt;/a&gt;, 
 &lt;a href=&#34;https://mlops.connpass.com/event/328296/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第 45 回 『事例でわかる MLOps 機械学習の成果をスケールさせる処方箋』出版記念 MLOps 勉強会&lt;/a&gt;, Oct 2nd, 2024.&lt;/li&gt;
-&lt;li&gt;「巨人の肩の上」で自作ライブラリを作る技術, 
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/pyconjp2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「巨人の肩の上」で自作ライブラリを作る技術&lt;/a&gt;, 
 &lt;a href=&#34;https://2024.pycon.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyCon JP 2024&lt;/a&gt;, Sep 28th, 2024.&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://speakerdeck.com/upura/yans2024-nikkei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本経済新聞社 x 自然言語処理&lt;/a&gt;, 
