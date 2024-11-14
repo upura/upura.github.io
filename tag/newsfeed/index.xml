@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>(2024.11.14) Presentation at HCI210&amp;UBI84</title>
+      <title>(2024.11.14) Presentation at HCI 210 &amp; UBI 84</title>
       <link>https://upura.github.io/news/241114/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/news/241114/</guid>
@@ -57,37 +57,6 @@
       <guid>https://upura.github.io/news/240715/</guid>
       <description>&lt;p&gt;Happy to share that our paper has been accepted at INLG 2024.&lt;/p&gt;
 &lt;p&gt;Shotaro Ishihara and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. In Proceedings of the 17th International Natural Language Generation Conference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2024.07.10) Accepted at PyCon JP 2024</title>
-      <link>https://upura.github.io/news/240710/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/240710/</guid>
-      <description>&lt;p&gt;Happy to share that our talk proposal has been accepted at PyCon JP 2024.&lt;/p&gt;
-&lt;p&gt;「巨人の肩の上」で自作ライブラリを作る技術.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2024.05.22) Accepted at Journal of Natural Language Processing</title>
-      <link>https://upura.github.io/news/240522/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/240522/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
-&lt;p&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2024.04.25) Accepted at TrustNLP 2024</title>
-      <link>https://upura.github.io/news/240425/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/240425/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at the TrustNLP workshop at NAACL2024.&lt;/p&gt;
-&lt;p&gt;Shotaro Ishihara (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
-&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/p&gt;
 </description>
     </item>
     
