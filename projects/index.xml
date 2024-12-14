@@ -19,11 +19,14 @@
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. [
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
+&lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2024). &lt;strong&gt;Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. [
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;u&gt;石原祥太郎&lt;/u&gt;, 山田剛, 進藤裕之 (2024). &lt;strong&gt;企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 3号. [
-&lt;a href=&#34;https://www.jstage.jst.go.jp/article/jnlp/31/3/31_1330/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
@@ -595,21 +598,24 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; Journal of Natural Language Processing)&lt;/li&gt;
+&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; 
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Training data extraction
 &lt;ul&gt;
 &lt;li&gt;Survey paper (
 &lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Experiments on Japanese newspaper (
-&lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Hallucination analysis on domain-specific PLMs (Journal of Natural Language Processing)&lt;/li&gt;
+&lt;li&gt;Hallucination analysis on domain-specific PLMs (
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;building-and-applying-plms&#34;&gt;Building and Applying PLMs&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Building domain-specific PLMs (
-&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; Journal of Natural Language Processing)&lt;/li&gt;
+&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;PLMs for news industry:
 &lt;ul&gt;
 &lt;li&gt;Crossword puzzle generation (
