@@ -80,12 +80,20 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;鈴木香帆, 鳥海不二夫, &lt;u&gt;石原祥太郎&lt;/u&gt;, 並木亮 (2025). &lt;strong&gt;ニュース記事の配信形態が読者の閲覧行動に与える影響の分析&lt;/strong&gt;. &lt;em&gt;2025年度人工知能学会全国大会（第39回）論文集&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;生成的推薦の人気バイアスの分析：暗記の観点から&lt;/strong&gt;. &lt;em&gt;2025年度人工知能学会全国大会（第39回）論文集&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;馬嶋海斗, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;ニュース中心のクロスワードパズルの自動生成：制約充足最適化問題による定式化&lt;/strong&gt;. &lt;em&gt;知識と技能のモデル化と活用研究会第2回研究会&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;高橋寛武, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;日本語継続事前学習モデルを対象とした暗記の定量化&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;大村和正, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;検索クエリログを用いない自然な質問のマイニングの検討&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;岩本和真, 大村和正, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;人間が書いた文章を対象としたHallucination検出ベンチマークの構築と評価&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2025). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2025). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;馬嶋海斗, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;ニュース中心のクロスワードパズルの自動生成：制約充足最適化問題による定式化&lt;/strong&gt;. &lt;em&gt;知識と技能のモデル化と活用研究会第2回研究会&lt;/em&gt;. [
+&lt;a href=&#34;https://www.sigmaks.org/meetings#h.61dhpnvd0lye&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;高橋寛武, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;日本語継続事前学習モデルを対象とした暗記の定量化&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;. [
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P6-19.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;大村和正, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;検索クエリログを用いない自然な質問のマイニングの検討&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;. [
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P6-17.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;岩本和真, 大村和正, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;人間が書いた文章を対象としたHallucination検出ベンチマークの構築と評価&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;. [
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P7-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2025). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;. [
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q5-24.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
+&lt;a href=&#34;https://speakerdeck.com/upura/t5-news-summarization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2025). &lt;strong&gt;Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査&lt;/strong&gt;. &lt;em&gt;言語処理学会第31回年次大会発表論文集&lt;/em&gt;. [
+&lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q9-24.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
+&lt;a href=&#34;https://speakerdeck.com/upura/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;生成的推薦の人気バイアスの分析：暗記の観点から&lt;/strong&gt;. &lt;em&gt;第4回計算社会科学会大会&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;田邉耕太, &lt;u&gt;石原祥太郎&lt;/u&gt;, 山田健太, 青田雅輝, 又吉康綱 (2024). &lt;strong&gt;ニュースを身近に：日常風景からのニュース推薦&lt;/strong&gt;. &lt;em&gt;第 210 回ヒューマンコンピュータインタラクション・第 84 回ユビキタスコンピューティング合同研究発表会&lt;/em&gt;. [
 &lt;a href=&#34;http://id.nii.ac.jp/1001/00240468/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
