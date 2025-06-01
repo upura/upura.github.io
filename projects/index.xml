@@ -79,7 +79,8 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;山口悠地, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;AI エージェントを活用した研究再現性の自動定量評価&lt;/strong&gt;. &lt;em&gt;サイエンスオブサイエンス研究会 2025&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;山口悠地, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;AI エージェントを活用した研究再現性の自動定量評価&lt;/strong&gt;. &lt;em&gt;サイエンスオブサイエンス研究会 2025&lt;/em&gt;. [
+&lt;a href=&#34;https://speakerdeck.com/upura/scisci2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;鈴木香帆, 鳥海不二夫, &lt;u&gt;石原祥太郎&lt;/u&gt;, 並木亮 (2025). &lt;strong&gt;ニュース記事の配信形態が読者の閲覧行動に与える影響の分析&lt;/strong&gt;. &lt;em&gt;2025年度人工知能学会全国大会（第39回）論文集&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;生成的推薦の人気バイアスの分析：暗記の観点から&lt;/strong&gt;. &lt;em&gt;2025年度人工知能学会全国大会（第39回）論文集&lt;/em&gt;. [
 &lt;a href=&#34;https://speakerdeck.com/upura/jsai2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
@@ -535,6 +536,55 @@ Other talks and media coverage can be found
     </item>
     
     <item>
+      <title>AI-Accelerated News Media</title>
+      <link>https://upura.github.io/projects/research_interest/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/projects/research_interest/</guid>
+      <description>&lt;p&gt;My research interests lie in the realization of AI-accelerated news media. This involves creating new experiences and improving operational efficiency in all stages of news production.
+In particular, we focus on exploring opportunities and challenges for pre-trained models in news media.&lt;/p&gt;
+&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Monitoring time-series performance degradation (
+&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; 
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Training data extraction
+&lt;ul&gt;
+&lt;li&gt;Survey paper (
+&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Experiments on Japanese newspaper (
+&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hallucination analysis on domain-specific PLMs (
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;building-and-applying-pre-trained-models&#34;&gt;Building and Applying Pre-trained Models&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Building domain-specific large language models (
+&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;PLMs for news industry:
+&lt;ul&gt;
+&lt;li&gt;Crossword puzzle generation (
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Reading time estimation (
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Multilingual news similarity scoring (
+&lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2022 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Next Item Recommendation (
+&lt;a href=&#34;https://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WSDM 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;You can see 
+&lt;a href=&#34;https://upura.github.io/projects/publications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data Science Competitions</title>
       <link>https://upura.github.io/projects/data_science_competitions/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
@@ -613,55 +663,6 @@ Other talks and media coverage can be found
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;（エンジニアリング部門） 2nd (Team), 2018.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pre-Trained Language Models and News Media</title>
-      <link>https://upura.github.io/projects/research_interest/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/research_interest/</guid>
-      <description>&lt;p&gt;My research interest is to explore the opportunities and challenges of pre-trained language models (PLMs) in the news media.&lt;/p&gt;
-&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
-&lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Monitoring time-series performance degradation (
-&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Training data extraction
-&lt;ul&gt;
-&lt;li&gt;Survey paper (
-&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Experiments on Japanese newspaper (
-&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Hallucination analysis on domain-specific PLMs (
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;building-and-applying-plms&#34;&gt;Building and Applying PLMs&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Building domain-specific PLMs (
-&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;PLMs for news industry:
-&lt;ul&gt;
-&lt;li&gt;Crossword puzzle generation (
-&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Reading time estimation (
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Multilingual news similarity scoring (
-&lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2022 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Next Item Recommendation (
-&lt;a href=&#34;https://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WSDM 2021 Workshop&lt;/a&gt;)
-S&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-&lt;p&gt;You can see 
-&lt;a href=&#34;https://upura.github.io/projects/publications/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publications&lt;/a&gt; for the detail.&lt;/p&gt;
 </description>
     </item>
     
