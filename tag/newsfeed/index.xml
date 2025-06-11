@@ -5,12 +5,36 @@
     <link>https://upura.github.io/tag/newsfeed/</link>
       <atom:link href="https://upura.github.io/tag/newsfeed/index.xml" rel="self" type="application/rss+xml" />
     <description>newsfeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>newsfeed</title>
       <link>https://upura.github.io/tag/newsfeed/</link>
     </image>
+    
+    <item>
+      <title>(2025.06.1) Accepted at ACL2025 workshop</title>
+      <link>https://upura.github.io/news/250611/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/250611/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the First Workshop on Large Language Model Memorization.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hiromu Takahashi and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora&lt;/strong&gt;. &lt;em&gt;Proceedings of the First Workshop on Large Language Model Memorization&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2025.06.03) Accepted at KES 2025</title>
+      <link>https://upura.github.io/news/250603/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/250603/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at KES 2025.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kota Tanabe, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). Making News Familiar: News Recommendation from Daily Scenery. &lt;em&gt;Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>(2025.04.25) Accepted at NLDB 2025</title>
