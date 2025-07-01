@@ -32,7 +32,8 @@
 &lt;ul&gt;
 &lt;li&gt;Hiromu Takahashi† and &lt;u&gt;Shotaro Ishihara&lt;/u&gt;† (2025). &lt;strong&gt;Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora&lt;/strong&gt;. &lt;em&gt;Proceedings of the First Workshop on Large Language Model Memorization&lt;/em&gt;. (†equal contribution)&lt;/li&gt;
 &lt;li&gt;Kota Tanabe, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). &lt;strong&gt;Making News Familiar: News Recommendation from Daily Scenery&lt;/strong&gt;. &lt;em&gt;Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators&lt;/strong&gt;. &lt;em&gt;Proceedings of the 30th International Conference on Natural Language &amp;amp; Information Systems (NLDB 2025) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators&lt;/strong&gt;. &lt;em&gt;Proceedings of the 30th International Conference on Natural Language &amp;amp; Information Systems (NLDB 2025) (Industry Track)&lt;/em&gt;. [
+&lt;a href=&#34;https://doi.org/10.1007/978-3-031-97144-0_16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; and Hiromu Takahashi (2024). &lt;strong&gt;Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper&lt;/strong&gt;. &lt;em&gt;Proceedings of the 17th International Natural Language Generation Conference (INLG 2024).&lt;/em&gt; [
 &lt;a href=&#34;https://arxiv.org/abs/2404.17143v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ] [
 &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
@@ -81,6 +82,8 @@
 Other talks and media coverage can be found 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;企画委員会だより〔第 4 回〕人工知能分野をコンペティションで盛り上げたい&lt;/strong&gt;, &lt;em&gt;人工知能&lt;/em&gt;, 2025, 40 巻, 4 号, p. 604.  [
+&lt;a href=&#34;https://doi.org/10.11517/jjsai.40.4_604&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;山口悠地, &lt;u&gt;石原祥太郎&lt;/u&gt; (2025). &lt;strong&gt;AI エージェントを活用した研究再現性の自動定量評価&lt;/strong&gt;. &lt;em&gt;サイエンスオブサイエンス研究会 2025&lt;/em&gt;. [
 &lt;a href=&#34;https://speakerdeck.com/upura/scisci2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slide&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;鈴木香帆, 鳥海不二夫, &lt;u&gt;石原祥太郎&lt;/u&gt;, 並木亮 (2025). &lt;strong&gt;ニュース記事の配信形態が読者の閲覧行動に与える影響の分析&lt;/strong&gt;. &lt;em&gt;2025年度人工知能学会全国大会（第39回）論文集&lt;/em&gt;.&lt;/li&gt;
