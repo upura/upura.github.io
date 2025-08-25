@@ -805,8 +805,8 @@ Other talks and media coverage can be found
       <guid>https://upura.github.io/projects/research_interest/</guid>
       <description>&lt;p&gt;My research interests lie in the realization of AI-accelerated news media. This involves creating new experiences and improving operational efficiency in all stages of news production.
 In particular, we focus on exploring opportunities and challenges for pre-trained models in news media.&lt;/p&gt;
-&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
+&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/3813f4b9e4af4f328a96f2fdb9484bd8&#34; title=&#34;日本語新聞記事を用いた大規模言語モデルの暗記定量化 / LLMC2025&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
@@ -825,6 +825,7 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;building-and-applying-pre-trained-models&#34;&gt;Building and Applying Pre-trained Models&lt;/h3&gt;
+&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
 &lt;li&gt;Building domain-specific large language models (
 &lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; 
