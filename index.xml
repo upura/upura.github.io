@@ -803,45 +803,47 @@ Other talks and media coverage can be found
       <link>https://upura.github.io/projects/research_interest/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/research_interest/</guid>
-      <description>&lt;p&gt;My research interests lie in the realization of AI-accelerated news media. This involves creating new experiences and improving operational efficiency in all stages of news production.
+      <description>&lt;p&gt;My research interests lie in the realization of AI-accelerated news media.
+This involves creating new experiences and improving operational efficiency in all stages of news production.
 In particular, we focus on exploring opportunities and challenges for pre-trained models in news media.&lt;/p&gt;
+&lt;h3 id=&#34;building-and-applying-information-technology-such-as-pre-trained-models&#34;&gt;Building and Applying Information Technology Such as Pre-trained Models&lt;/h3&gt;
+&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Domain-specific pre-trained models (
+&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;News summarization (
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Entity linking system (
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Crossword puzzle generation (
+&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Semantic shift analysis (
+&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Reading time estimation (
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
 &lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/3813f4b9e4af4f328a96f2fdb9484bd8&#34; title=&#34;日本語新聞記事を用いた大規模言語モデルの暗記定量化 / LLMC2025&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
-&lt;li&gt;Monitoring time-series performance degradation (
-&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IC2S2 2023&lt;/a&gt; =&amp;gt; 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Training data extraction
+&lt;li&gt;Quantifying memorization of LLMs
 &lt;ul&gt;
 &lt;li&gt;Survey paper (
 &lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Experiments on Japanese newspaper (
+&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2025 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Monitoring time-series performance degradation (
+&lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Experiments on Japanese newspaper (
 &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;, 
 &lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2025 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Hallucination analysis on domain-specific PLMs (
+&lt;li&gt;Hallucination analysis (
 &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;building-and-applying-pre-trained-models&#34;&gt;Building and Applying Pre-trained Models&lt;/h3&gt;
-&lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
-&lt;ul&gt;
-&lt;li&gt;Building domain-specific large language models (
-&lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;PLMs for news industry:
-&lt;ul&gt;
-&lt;li&gt;Crossword puzzle generation (
-&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Reading time estimation (
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Multilingual news similarity scoring (
-&lt;a href=&#34;https://aclanthology.org/2022.semeval-1.171/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2022 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Next Item Recommendation (
-&lt;a href=&#34;https://ceur-ws.org/Vol-2855/challenge_short_7.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WSDM 2021 Workshop&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;Revisiting news recommendation (
+&lt;a href=&#34;https://doi.org/10.1007/978-3-031-97144-0_16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLDB 2025&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;You can see 
@@ -951,7 +953,7 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;li&gt;
 &lt;a href=&#34;https://weeklykagglenews.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weekly Kaggle News&lt;/a&gt;: Weekly news letter written in Japanese.
 &lt;ul&gt;
-&lt;li&gt;There are over 2600 subscribers.&lt;/li&gt;
+&lt;li&gt;There are around 3000 subscribers.&lt;/li&gt;
 &lt;li&gt;Featured by 
 &lt;a href=&#34;https://twitter.com/kaggle/status/1214931423003414530?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle official&lt;/a&gt; and 
 &lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmarkit.co.jp&lt;/a&gt;.&lt;/li&gt;
@@ -959,6 +961,8 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;a href=&#34;https://www.getrevue.co/profile/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revue&lt;/a&gt;, but migrated to Substack in 2023.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://upura.github.io/everyday-kaggle-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everyday Kaggle News&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hatena Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
