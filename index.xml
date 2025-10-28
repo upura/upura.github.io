@@ -257,7 +257,12 @@
       <link>https://upura.github.io/projects/publications/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/publications/</guid>
-      <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;pre-print&#34;&gt;Pre-print&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. [
+&lt;a href=&#34;https://arxiv.org/abs/2308.04688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. [
 &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
@@ -482,11 +487,14 @@ Other talks and media coverage can be found
       <guid>https://upura.github.io/projects/talks_and_media/</guid>
       <description>&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から, 
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/appmech-jsce-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から&lt;/a&gt;, 
 &lt;a href=&#34;https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第9回応用数理・AIセミナー&lt;/a&gt;, Oct 1st, 2025.&lt;/li&gt;
-&lt;li&gt;なぜ新聞社で NLP の研究開発に挑むのか, 
+&lt;li&gt;
+&lt;a href=&#34;https://yans.anlp.jp/entry/yans2025report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;なぜ新聞社で NLP の研究開発に挑むのか&lt;/a&gt;, 
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2025invitesession&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第20回言語処理若手シンポジウム(YANS2025)招待ポスター&lt;/a&gt;, Sep 19th, 2025.&lt;/li&gt;
-&lt;li&gt;日本語新聞記事を用いた大規模言語モデルの暗記定量化, 
+&lt;li&gt;
+&lt;a href=&#34;https://speakerdeck.com/upura/llmc2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日本語新聞記事を用いた大規模言語モデルの暗記定量化&lt;/a&gt;, 
 &lt;a href=&#34;https://llm-jp.nii.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第22回LLM勉強会&lt;/a&gt;, Aug 26th, 2025.&lt;/li&gt;
 &lt;li&gt;AIでニュースはどう進化する？, 
 &lt;a href=&#34;https://kaishi-pu.ac.jp/topics/oc-info-0809&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;開志専門職大学オープンキャンパス&lt;/a&gt;, Aug 9th, 2025.&lt;/li&gt;
