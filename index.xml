@@ -64,6 +64,16 @@
     </item>
     
     <item>
+      <title>(2025.11.11) Publishing a Japanese Kaggle x LLM Book</title>
+      <link>https://upura.github.io/news/251111/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/251111/</guid>
+      <description>&lt;p&gt;We publish a Japanese Kaggle x LLM Book.
+&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>(2024.09.11) Two papers has been accepted at Journal of Natural Language Processing</title>
       <link>https://upura.github.io/news/240911/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
@@ -424,6 +434,8 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h2 id=&#34;book&#34;&gt;Book&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;高野海斗, 齋藤慎一朗, &lt;u&gt;石原祥太郎&lt;/u&gt; (2026). &lt;strong&gt;Kaggleではじめる大規模言語モデル入門　自然言語処理〈実践〉プログラミング&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. [
+&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;小嵜耕平, 秋葉拓哉, 林孝紀, &lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;Kaggleに挑む深層学習プログラミングの極意&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. [
 &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Abhishek Thakur (著), &lt;u&gt;石原祥太郎&lt;/u&gt; (翻訳) (2021). &lt;strong&gt;Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ&lt;/strong&gt;. &lt;em&gt;マイナビ出版&lt;/em&gt;. [
