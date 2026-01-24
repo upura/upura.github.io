@@ -5,12 +5,22 @@
     <link>https://upura.github.io/tag/newsfeed/</link>
       <atom:link href="https://upura.github.io/tag/newsfeed/index.xml" rel="self" type="application/rss+xml" />
     <description>newsfeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>newsfeed</title>
       <link>https://upura.github.io/tag/newsfeed/</link>
     </image>
+    
+    <item>
+      <title>(2025.11.11) Publishing a Japanese Kaggle x LLM Book</title>
+      <link>https://upura.github.io/news/251111/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/251111/</guid>
+      <description>&lt;p&gt;We publish a Japanese Kaggle x LLM Book.
+&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(2025.06.11) Accepted at ACL 2025 workshop</title>
@@ -45,16 +55,6 @@
 &lt;ul&gt;
 &lt;li&gt;Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators. &lt;em&gt;Proceedings of the 30th International Conference on Natural Language &amp;amp; Information Systems (NLDB 2025) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2025.11.11) Publishing a Japanese Kaggle x LLM Book</title>
-      <link>https://upura.github.io/news/251111/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/251111/</guid>
-      <description>&lt;p&gt;We publish a Japanese Kaggle x LLM Book.
-&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
