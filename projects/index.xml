@@ -596,9 +596,9 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;li&gt;Domain-specific pre-trained models (
 &lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;News summarization (
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of NLP&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Entity linking system (
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of NLP&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Crossword puzzle generation (
 &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIKM 2023&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Semantic shift analysis (
@@ -612,20 +612,21 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;li&gt;Quantifying memorization of LLMs
 &lt;ul&gt;
 &lt;li&gt;Survey paper (
-&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2023 Workshop&lt;/a&gt;, Transactions of JSAI)&lt;/li&gt;
+&lt;li&gt;Benchmarking membership inference attacks (ACL 2026 Demo)&lt;/li&gt;
 &lt;li&gt;Experiments on Japanese newspaper (
 &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt; &amp;amp; 
 &lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2025 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Monitoring time-series performance degradation (
 &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AACL-IJCNLP 2022&lt;/a&gt; &amp;amp; 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of NLP&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Experiments on Japanese newspaper (
 &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INLG 2024&lt;/a&gt;, 
 &lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2025 Workshop&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Hallucination analysis (
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Natural Language Processing&lt;/a&gt;)&lt;/li&gt;
+&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of NLP&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Revisiting news recommendation (
 &lt;a href=&#34;https://doi.org/10.1007/978-3-031-97144-0_16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLDB 2025&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
