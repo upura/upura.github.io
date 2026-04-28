@@ -5,7 +5,7 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>(2026.04.27) Accepted at ACL 2026 Demo</title>
-      <link>https://upura.github.io/news/260424/</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/260424/</guid>
+      <link>https://upura.github.io/news/260427/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260427/</guid>
       <description>&lt;p&gt;Happy to share that our paper has been accepted at the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. &lt;em&gt;Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)&lt;/em&gt;. [
@@ -26,22 +26,22 @@
     </item>
     
     <item>
-      <title>(2026.04.16) Accepted at IC2S2 2026</title>
-      <link>https://upura.github.io/news/260416/</link>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/260416/</guid>
-      <description>&lt;p&gt;Happy to share that our submission has been accepted at the 12th International Conference on Computational Social Science (IC2S2 2026).&lt;/p&gt;
+      <title>(2026.04.27) Accepted at Transactions of JSAI</title>
+      <link>https://upura.github.io/news/260424/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260424/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at Transactions of the Japanese Society for Artificial Intelligence.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;Effects of News Delivery Formats on the Article Diversity&lt;/strong&gt;. &lt;em&gt;12th International Conference on Computational Social Science (IC2S2 2026).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>(2026.04.16) Accepted at IC2S2 2026</title>
-      <link>https://upura.github.io/news/260427/</link>
+      <link>https://upura.github.io/news/260416/</link>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/260427/</guid>
+      <guid>https://upura.github.io/news/260416/</guid>
       <description>&lt;p&gt;Happy to share that our submission has been accepted at the 12th International Conference on Computational Social Science (IC2S2 2026).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;Effects of News Delivery Formats on the Article Diversity&lt;/strong&gt;. &lt;em&gt;12th International Conference on Computational Social Science (IC2S2 2026).&lt;/em&gt;&lt;/li&gt;
