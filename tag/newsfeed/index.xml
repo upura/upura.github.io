@@ -59,5 +59,243 @@
 </description>
     </item>
     
+    <item>
+      <title>(2025.06.11) Accepted at ACL 2025 workshop</title>
+      <link>https://upura.github.io/news/250611/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/250611/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the First Workshop on Large Language Model Memorization.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hiromu Takahashi and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora&lt;/strong&gt;. &lt;em&gt;Proceedings of the First Workshop on Large Language Model Memorization&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2025.06.03) Accepted at KES 2025</title>
+      <link>https://upura.github.io/news/250603/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/250603/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at KES 2025.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kota Tanabe, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). Making News Familiar: News Recommendation from Daily Scenery. &lt;em&gt;Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2025.04.25) Accepted at NLDB 2025</title>
+      <link>https://upura.github.io/news/250425/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/250425/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at NLDB 2025.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators. &lt;em&gt;Proceedings of the 30th International Conference on Natural Language &amp;amp; Information Systems (NLDB 2025) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.11.14) Presentation at HCI 210 &amp; UBI 84</title>
+      <link>https://upura.github.io/news/241114/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/241114/</guid>
+      <description>&lt;p&gt;We will present a research work at HCI210 &amp;amp; UBI84.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://id.nii.ac.jp/1001/00240468/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.09.11) Two papers has been accepted at Journal of Natural Language Processing</title>
+      <link>https://upura.github.io/news/240911/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240911/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.08.07) Publishing Japanese MLOps Book</title>
+      <link>https://upura.github.io/news/240807/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240807/</guid>
+      <description>&lt;p&gt;I was involved in one chapter of a book in Japanese on MLOps.
+&lt;a href=&#34;https://www.amazon.co.jp/dp/4065369568&#34;&gt;https://www.amazon.co.jp/dp/4065369568&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.07.15) Accepted at INLG 2024</title>
+      <link>https://upura.github.io/news/240715/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240715/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at INLG 2024.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara and Hiromu Takahashi (2024). Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper. In Proceedings of the 17th International Natural Language Generation Conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.07.10) Accepted at PyCon JP 2024</title>
+      <link>https://upura.github.io/news/240710/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240710/</guid>
+      <description>&lt;p&gt;Happy to share that our talk proposal has been accepted at PyCon JP 2024.&lt;/p&gt;
+&lt;p&gt;「巨人の肩の上」で自作ライブラリを作る技術.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.05.22) Accepted at Journal of Natural Language Processing</title>
+      <link>https://upura.github.io/news/240522/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240522/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
+&lt;p&gt;澤田悠冶, 安井雄一郎, 大内啓樹, 渡辺太郎, 石井昌之, &lt;strong&gt;石原祥太郎&lt;/strong&gt;, 山田剛, 進藤裕之 (2024). 企業名の類似度に基づく日経企業IDリンキングシステムの構築と分析. 自然言語処理, 2024, 31巻, 3号.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2024.04.25) Accepted at TrustNLP 2024</title>
+      <link>https://upura.github.io/news/240425/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/240425/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the TrustNLP workshop at NAACL2024.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara (2024). Quantifying Memorization of Domain-Specific Pre-trained Language Models using Japanese Newspaper and Paywalls. Fourth Workshop on Trustworthy Natural Language Processing. [
+&lt;a href=&#34;https://arxiv.org/abs/2404.17143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.12.17) Google Cloud Champion Innovator (Cloud AI/ML)</title>
+      <link>https://upura.github.io/news/231218/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/231218/</guid>
+      <description>&lt;p&gt;I am honored to be nominated as a 
+&lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud Champion Innovator&lt;/a&gt; (Cloud AI/ML).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.08.04) Accepted at CIKM 2023</title>
+      <link>https://upura.github.io/news/230804/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230804/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the short paper track in the 32nd ACM International Conference on Information and Knowledge Management  (CIKM 2023).&lt;/p&gt;
+&lt;p&gt;Kaito Majima†, and &lt;strong&gt;Shotaro Ishihara&lt;/strong&gt;† (2023). Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management  (CIKM 2023). Association for Computing Machinery, Birmingham, UK. (†equal contribution)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.05.23) Accepted at TrustNLP 2023</title>
+      <link>https://upura.github.io/news/230522/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230522/</guid>
+      <description>&lt;p&gt;A survey paper has been accepted at the TrustNLP workshop at ACL2023. The paper reviewed literature on the memorization properties and training data extraction of Large Language Models, and discussed future directions.&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara (2023). Training Data Extraction From Pre-trained Language Models: A Survey. Proceedings of Third Workshop on Trustworthy Natural Language Processing.  [
+&lt;a href=&#34;https://arxiv.org/abs/2305.16157&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.04.14) Accepted at IC2S2 2023</title>
+      <link>https://upura.github.io/news/230414/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230414/</guid>
+      <description>&lt;p&gt;Happy to share that our abstract proposal has been accepted at the 9th International Conference on Computational Social Science (IC2S2 2023).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara, Hiromu Takahashi, and Hono Shirai (2023). Quantifying Diachronic Language Change via Word Embeddings: Analysis of Social Events using 11 Years News Articles in Japanese and English. 9th International Conference on Computational Social Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.02.25) Research Award at CSSJ2023</title>
+      <link>https://upura.github.io/news/230225/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230225/</guid>
+      <description>&lt;p&gt;We are proud to announce that we have won the Research Award at CSSJ 2023. [
+&lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/#award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.02.10) Presentation at CSSJ2023</title>
+      <link>https://upura.github.io/news/230210/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230210/</guid>
+      <description>&lt;p&gt;We will present two research work at 2023 annual meeting of the Society for Computational Social Science of Japan. [
+&lt;a href=&#34;https://css-japan.com/2022/12/13/cssj2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2023). 単語分散表現による言語の通時変化の定量化：11年分の日英ニュース記事を用いた社会的事象の分析. 第2回計算社会科学会大会(CSSJ2023).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.01.26) Presentation at Start Python Club</title>
+      <link>https://upura.github.io/news/230126/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230126/</guid>
+      <description>&lt;p&gt;I will have a presentation introducing 
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a new Japanese Kaggle book&lt;/a&gt; published soon. [
+&lt;a href=&#34;https://startpython.connpass.com/event/270312/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.01.13) Presentation at NLP2023</title>
+      <link>https://upura.github.io/news/230113/</link>
+      <pubDate>Fri, 13 Jan 2023 15:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230113/</guid>
+      <description>&lt;p&gt;We will present two research work at 2023 annual meeting of the Association for Natural Language Processing. [
+&lt;a href=&#34;https://www.anlp.jp/nlp2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;石原祥太郎 (2023). 事前学習済み言語モデルからの訓練データ抽出：新聞記事の特性を用いた評価セットの構築と分析.&lt;/li&gt;
+&lt;li&gt;大村和正 (京大), 白井穂乃, 石原祥太郎, 澤紀彦 (2023). 極性と重要度を考慮した決算短信からの業績要因文の抽出.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.01.01) Publish a Japanese Kaggle Book</title>
+      <link>https://upura.github.io/news/230101/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230101/</guid>
+      <description>&lt;p&gt;Happy to share that we will publish a new Japanese Kaggle book, focusing on deep learning with image and text. I authored chapters 1 and 2. Chapters 3-5 are the practices of image classification, image retrieval, and text classification, respectively.&lt;/p&gt;
+&lt;p&gt;[
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2022.12.20) Accepted at BigData 2022 (Industrial &amp; Government Track)</title>
+      <link>https://upura.github.io/news/221220/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/221220/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Industrial &amp;amp; Government Track in 2022 IEEE International Conference on Big Data (BigData 2022).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara, and Yasufumi Nakama (2022). Analysis and Estimation of News Article Reading Time with Multimodal Machine Learning. In Proceedings of 2022 IEEE International Conference on Big Data (Industrial &amp;amp; Government Track). (to appear) [
+&lt;a href=&#34;https://bigdataieee.org/BigData2022/AcceptedPapers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2022.11.23) Accepted at AACL-IJCNLP 2022</title>
+      <link>https://upura.github.io/news/221123/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/221123/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022).&lt;/p&gt;
+&lt;p&gt;Shotaro Ishihara*, Hiromu Takahashi*, and Hono Shirai (2022). Semantic Shift Stability: Efficient Way to Detect Performance Degradation of Word Embeddings and Pre-trained Language Models. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, pages 205–216, Online only. Association for Computational Linguistics. (*equal contribution) [
+&lt;a href=&#34;https://www.aacl2022.org/paper&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
