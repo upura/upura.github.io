@@ -102,10 +102,8 @@
       <guid>https://upura.github.io/news/241114/</guid>
       <description>&lt;p&gt;We will present a research work at HCI210 &amp;amp; UBI84.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[
-&lt;a href=&#34;https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;[
-&lt;a href=&#34;http://id.nii.ac.jp/1001/00240468/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ipsj.or.jp/kenkyukai/event/hci210ubi84.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://id.nii.ac.jp/1001/00240468/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
