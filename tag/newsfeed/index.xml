@@ -5,12 +5,49 @@
     <link>https://upura.github.io/tag/newsfeed/</link>
       <atom:link href="https://upura.github.io/tag/newsfeed/index.xml" rel="self" type="application/rss+xml" />
     <description>newsfeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>newsfeed</title>
       <link>https://upura.github.io/tag/newsfeed/</link>
     </image>
+    
+    <item>
+      <title>(2026.04.27) Accepted at ACL 2026 Demo</title>
+      <link>https://upura.github.io/news/260424/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260424/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. &lt;em&gt;Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)&lt;/em&gt;. [
+&lt;a href=&#34;https://arxiv.org/abs/2510.23074&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2026.04.16) Accepted at IC2S2 2026</title>
+      <link>https://upura.github.io/news/260416/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260416/</guid>
+      <description>&lt;p&gt;Happy to share that our submission has been accepted at the 12th International Conference on Computational Social Science (IC2S2 2026).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;Effects of News Delivery Formats on the Article Diversity&lt;/strong&gt;. &lt;em&gt;12th International Conference on Computational Social Science (IC2S2 2026).&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2026.04.16) Accepted at IC2S2 2026</title>
+      <link>https://upura.github.io/news/260427/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260427/</guid>
+      <description>&lt;p&gt;Happy to share that our submission has been accepted at the 12th International Conference on Computational Social Science (IC2S2 2026).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;Effects of News Delivery Formats on the Article Diversity&lt;/strong&gt;. &lt;em&gt;12th International Conference on Computational Social Science (IC2S2 2026).&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>(2025.11.11) Publishing a Japanese Kaggle x LLM Book</title>
@@ -19,55 +56,6 @@
       <guid>https://upura.github.io/news/251111/</guid>
       <description>&lt;p&gt;We publish a Japanese Kaggle x LLM Book.
 &lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2025.06.11) Accepted at ACL 2025 workshop</title>
-      <link>https://upura.github.io/news/250611/</link>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/250611/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at the First Workshop on Large Language Model Memorization.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hiromu Takahashi and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Quantifying Memorization in Continual Pre-training with Japanese General or Industry-Specific Corpora&lt;/strong&gt;. &lt;em&gt;Proceedings of the First Workshop on Large Language Model Memorization&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2025.06.03) Accepted at KES 2025</title>
-      <link>https://upura.github.io/news/250603/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/250603/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at KES 2025.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kota Tanabe, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). Making News Familiar: News Recommendation from Daily Scenery. &lt;em&gt;Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2025.04.25) Accepted at NLDB 2025</title>
-      <link>https://upura.github.io/news/250425/</link>
-      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/250425/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at NLDB 2025.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Takumi Tamura, Yoichiro Ito, Masaki Aota, Kenta Yamada, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). Should Embedding-Based News Recommendation Be Revisited? A Focus on the Differences Between News Publishers and Aggregators. &lt;em&gt;Proceedings of the 30th International Conference on Natural Language &amp;amp; Information Systems (NLDB 2025) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(2024.09.11) Two papers has been accepted at Journal of Natural Language Processing</title>
-      <link>https://upura.github.io/news/240911/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/240911/</guid>
-      <description>&lt;p&gt;Happy to share that our paper has been accepted at the Journal of Natural Language Processing.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 高橋寛武, 白井穂乃 (2024). Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;石原祥太郎&lt;/strong&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). 日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用. 自然言語処理, 2024, 31巻, 4号.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

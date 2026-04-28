@@ -17,13 +17,9 @@
       <link>https://upura.github.io/projects/publications/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/publications/</guid>
-      <description>&lt;h2 id=&#34;pre-print&#34;&gt;Pre-print&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2025). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. [
-&lt;a href=&#34;https://arxiv.org/abs/2510.23074&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
-&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号.&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. [
 &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; ]&lt;/li&gt;
@@ -35,6 +31,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-referred&#34;&gt;International Conference (Referred)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. &lt;em&gt;Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)&lt;/em&gt;. [
+&lt;a href=&#34;https://arxiv.org/abs/2510.23074&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
 &lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;Effects of News Delivery Formats on the Article Diversity&lt;/strong&gt;. &lt;em&gt;12th International Conference on Computational Social Science (IC2S2 2026).&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Kota Tanabe, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Kenta Yamada, Masaki Aota, and Yasutsuna Matayoshi (2025). &lt;strong&gt;Making News Familiar: News Recommendation from Daily Scenery&lt;/strong&gt;. &lt;em&gt;Proceedings of the 29th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES-2025)&lt;/em&gt;. [
 &lt;a href=&#34;https://doi.org/10.1016/j.procs.2025.09.172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
