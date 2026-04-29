@@ -7,10 +7,28 @@
     <description>Shotaro Ishihara</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright>
     <image>
-      <url>https://upura.github.io/author/shotaro-ishihara/avatar_hua2e664ef1359c21c98c2ac366014c83b_91928_270x270_fill_lanczos_center_2.png</url>
+      <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
       <link>https://upura.github.io/author/shotaro-ishihara/</link>
     </image>
+    
+    <item>
+      <title>Shotaro Ishihara</title>
+      <link>https://upura.github.io/author/shotaro-ishihara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/author/shotaro-ishihara/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a research scientist and researcher at a Japanese media company, engaged in data analysis and service developments.
+While studying computer science at university, I was also involved in 
+&lt;a href=&#34;http://www.todaishimbun.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a university press&lt;/a&gt;.
+My research interests include the 
+&lt;a href=&#34;https://upura.github.io/projects/research_interest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opportunities and challenges of pre-trained language models for news media&lt;/a&gt;.
+I enjoy participating in machine learning competitions and won the first place on 
+&lt;a href=&#34;https://www.kaggle.com/c/petfinder-adoption-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a Kaggle competition&lt;/a&gt;, hosted a 
+&lt;a href=&#34;https://kaggledays.com/events/tokyo2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Days Tokyo&lt;/a&gt; competition, and published three books.
+The International News Media Association gave me &amp;ldquo;
+&lt;a href=&#34;https://www.inma.org/blogs/main/post.cfm/INMA-unveils-30-rising-stars-in-global-news-media-with-young-professionals-awards&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30 Under 30 Awards and Grand Prize&lt;/a&gt;&amp;rdquo; in 2020.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

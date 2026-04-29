@@ -5,7 +5,7 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>Shotaro Ishihara</title>
@@ -55,7 +55,8 @@
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/news/251111/</guid>
       <description>&lt;p&gt;We publish a Japanese Kaggle x LLM Book.
-&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.kodansha.co.jp/book/products/0000420398&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -127,7 +128,8 @@
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/news/240807/</guid>
       <description>&lt;p&gt;I was involved in one chapter of a book in Japanese on MLOps.
-&lt;a href=&#34;https://www.amazon.co.jp/dp/4065369568&#34;&gt;https://www.amazon.co.jp/dp/4065369568&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://www.amazon.co.jp/dp/4065369568&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.amazon.co.jp/dp/4065369568&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -631,7 +633,8 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
       <guid>https://upura.github.io/projects/data_science_competitions/</guid>
       <description>&lt;h2 id=&#34;kaggle&#34;&gt;Kaggle&lt;/h2&gt;
 &lt;p&gt;Competition Master / Notebooks Master / Discussion Expert
-&lt;a href=&#34;https://www.kaggle.com/sishihara&#34;&gt;https://www.kaggle.com/sishihara&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://www.kaggle.com/sishihara&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.kaggle.com/sishihara&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://www.kaggle.com/c/petfinder-adoption-prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PetFinder.my Adoption Prediction&lt;/a&gt; &lt;span class=&#34;compe-badge compe-gold mr-1&#34;&gt;&lt;i class=&#34;fas fa-medal mr-1&#34;&gt;&lt;/i&gt;&lt;strong&gt;1st&lt;/strong&gt; · Team · 2019&lt;/span&gt;
@@ -665,7 +668,8 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;/ul&gt;
 &lt;h2 id=&#34;signate&#34;&gt;SIGNATE&lt;/h2&gt;
 &lt;p&gt;Expert
-&lt;a href=&#34;https://signate.jp/profile/history&#34;&gt;https://signate.jp/profile/history&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://signate.jp/profile/history&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://signate.jp/profile/history&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://signate.jp/competitions/158&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;【招待制】糖尿病患者の検査項目データにおける臨床検査項目分類コード推定&lt;/a&gt; &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;3rd&lt;/strong&gt; · Solo · 2019&lt;/span&gt;
@@ -688,7 +692,8 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
 &lt;/ul&gt;
 &lt;h2 id=&#34;atcoder&#34;&gt;AtCoder&lt;/h2&gt;
 &lt;p&gt;Highest: Light Blue
-&lt;a href=&#34;https://atcoder.jp/users/upura&#34;&gt;https://atcoder.jp/users/upura&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;https://atcoder.jp/users/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://atcoder.jp/users/upura&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;others&#34;&gt;Others&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
