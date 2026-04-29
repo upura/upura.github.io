@@ -134,11 +134,19 @@ Other talks and media coverage can be found
 &lt;/ul&gt;
 &lt;h2 id=&#34;committee&#34;&gt;Committee&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;一般社団法人人工知能学会企画委員会, April 2024 -. &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;国際人工知能オリンピック（IOAI）日本委員会委員, Dec 2024 -. &lt;a href=&#34;https://ioai-japan.org/about-ioai-japan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;地球惑星科学における AI 研究会専門委員, April 2024 - March 2026 &lt;a href=&#34;https://sites.google.com/jpgu.org/geosciai2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Google Developer Experts (Artificial Intelligence), April 2025.&lt;/li&gt;
-&lt;li&gt;Google Developer Experts (Kaggle), May 2025 - March 2026.&lt;/li&gt;
+&lt;li&gt;一般社団法人人工知能学会
+&lt;ul&gt;
+&lt;li&gt;企画委員会, April 2024 -. &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;地球惑星科学における AI 研究会専門委員, April 2024 -. &lt;a href=&#34;https://sites.google.com/jpgu.org/geosciai2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;国際人工知能オリンピック（IOAI）日本委員会スタッフ, Dec 2024 -. &lt;a href=&#34;https://ioai-japan.org/about-ioai-japan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Developer Experts &lt;a href=&#34;https://developers.google.com/community/experts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Artificial Intelligence, April 2025 -.&lt;/li&gt;
+&lt;li&gt;Kaggle, May 2025 - March 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Google Cloud Champion Innovator (Cloud AI/ML), Dec 2023 - March 2025. &lt;a href=&#34;https://cloud.google.com/innovators/champions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -449,14 +457,16 @@ In particular, we focus on exploring opportunities and challenges for pre-traine
     </item>
     
     <item>
-      <title>OSS Activities</title>
-      <link>https://upura.github.io/projects/oss_activities/</link>
+      <title>Materials</title>
+      <link>https://upura.github.io/projects/materials/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/projects/oss_activities/</guid>
+      <guid>https://upura.github.io/projects/materials/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/Nikkei/fast-mia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fast-MIA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/upura/ayniy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ayniy, All You Need is YAML&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
