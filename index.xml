@@ -423,7 +423,7 @@ Other talks and media coverage can be found
 &lt;ul&gt;
 &lt;li&gt;一般社団法人人工知能学会
 &lt;ul&gt;
-&lt;li&gt;企画委員会, April 2024 -. &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;企画委員会（コンペティション担当）, April 2024 -. &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;地球惑星科学における AI 研究会専門委員, April 2024 -. &lt;a href=&#34;https://sites.google.com/jpgu.org/geosciai2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
@@ -595,31 +595,78 @@ Other talks and media coverage can be found
       <guid>https://upura.github.io/projects/research_interest/</guid>
       <description>&lt;p&gt;My research interests lie in the realization of AI-accelerated news media.
 This involves creating new experiences and improving operational efficiency in all stages of news production.
-In particular, we focus on exploring opportunities and challenges for pre-trained models in news media.&lt;/p&gt;
-&lt;h3 id=&#34;building-and-applying-information-technology-such-as-pre-trained-models&#34;&gt;Building and Applying Information Technology Such as Pre-trained Models&lt;/h3&gt;
+In particular, we focus on exploring opportunities and challenges for pre-trained models in news media.
+Furthermore, I am involved in leveraging data science competitions as a means to promote the democratization of data science.&lt;/p&gt;
+&lt;h2 id=&#34;building-and-applying-information-technology-such-as-pre-trained-models&#34;&gt;Building and Applying Information Technology Such as Pre-trained Models&lt;/h2&gt;
+&lt;p&gt;There are many opportunities to apply information technology within the business processes of news media.
+As in-house engineers, we collaborate closely with editors.
+Some of our work is published externally in the form of press releases and research papers.&lt;/p&gt;
 &lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/7c1fff569f0449c6bd056f0ec45f57e1&#34; title=&#34;ニュースメディアにおける事前学習済みモデルの可能性と課題 / IBIS2024&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
 &lt;li&gt;Domain-specific pre-trained models &lt;a href=&#34;https://www.nikkei.co.jp/nikkeiinfo/en/news/press/release_en_20240424_01.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-newspaper mr-1&#34;&gt;&lt;/i&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improving operational efficiency:
+&lt;ul&gt;
 &lt;li&gt;News summarization &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-book-open mr-1&#34;&gt;&lt;/i&gt;Journal of NLP&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Entity linking system &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1330&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-book-open mr-1&#34;&gt;&lt;/i&gt;Journal of NLP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Creating new experiences:
+&lt;ul&gt;
+&lt;li&gt;Recommendation from daily scenery &lt;a href=&#34;https://doi.org/10.1016/j.procs.2025.09.172&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;KES-2025&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Crossword puzzle generation &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;CIKM 2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Service &amp;amp; User analysis:
+&lt;ul&gt;
+&lt;li&gt;Effects of delivery formats &lt;span class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;IC2S2 2026&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Semantic shift analysis &lt;a href=&#34;https://upura.github.io/pdf/ic2s2_2023_semantic_shift.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;IC2S2 2023&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Reading time estimation &lt;a href=&#34;https://ieeexplore.ieee.org/document/10020618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;BigData 2022 Industrial &amp;amp; Government Track&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Revisiting news recommendation &lt;a href=&#34;https://doi.org/10.1007/978-3-031-97144-0_16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;NLDB 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;challenges-in-practice&#34;&gt;Challenges in Practice&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;quantifying-memorization-of-llms&#34;&gt;Quantifying memorization of LLMs&lt;/h2&gt;
+&lt;p&gt;The memorization of training data by large language models (LLMs) is recognized as a significant challenge related to copyright, security, and sound evaluation.
+We are conducting empirical experiments to quantify memorization, primarily using Japanese newspaper articles.
+We have also published survey papers and released a library for quantification.&lt;/p&gt;
 &lt;iframe class=&#34;speakerdeck-iframe&#34; frameborder=&#34;0&#34; src=&#34;https://speakerdeck.com/player/3813f4b9e4af4f328a96f2fdb9484bd8&#34; title=&#34;日本語新聞記事を用いた大規模言語モデルの暗記定量化 / LLMC2025&#34; allowfullscreen=&#34;true&#34; style=&#34;border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;&#34; data-ratio=&#34;1.7777777777777777&#34;&gt;&lt;/iframe&gt;
-&lt;ul&gt;
-&lt;li&gt;Quantifying memorization of LLMs
 &lt;ul&gt;
 &lt;li&gt;Survey paper &lt;a href=&#34;https://aclanthology.org/2023.trustnlp-1.23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-users mr-1&#34;&gt;&lt;/i&gt;ACL 2023 Workshop&lt;/a&gt; &lt;span class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-book-open mr-1&#34;&gt;&lt;/i&gt;Transactions of JSAI&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Benchmarking membership inference attacks &lt;span class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-laptop-code mr-1&#34;&gt;&lt;/i&gt;ACL 2026 Demo&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Experiments on Japanese newspaper &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;INLG 2024&lt;/a&gt; &lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-users mr-1&#34;&gt;&lt;/i&gt;ACL 2025 Workshop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Monitoring time-series performance degradation &lt;a href=&#34;https://aclanthology.org/2022.aacl-main.17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;AACL-IJCNLP 2022&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-book-open mr-1&#34;&gt;&lt;/i&gt;Journal of NLP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experiments on Japanese newspaper &lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;INLG 2024&lt;/a&gt; &lt;a href=&#34;https://aclanthology.org/2025.l2m2-1.8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-users mr-1&#34;&gt;&lt;/i&gt;ACL 2025 Workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;promoting-data-science-competitions&#34;&gt;Promoting data science competitions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Books:
+&lt;ul&gt;
+&lt;li&gt;高野海斗, 齋藤慎一朗, &lt;u&gt;石原祥太郎&lt;/u&gt; (2026). &lt;strong&gt;Kaggleではじめる大規模言語モデル入門　自然言語処理〈実践〉プログラミング&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. &lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;小嵜耕平, 秋葉拓哉, 林孝紀, &lt;u&gt;石原祥太郎&lt;/u&gt; (2023). &lt;strong&gt;Kaggleに挑む深層学習プログラミングの極意&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Abhishek Thakur (著), &lt;u&gt;石原祥太郎&lt;/u&gt; (翻訳) (2021). &lt;strong&gt;Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ&lt;/strong&gt;. &lt;em&gt;マイナビ出版&lt;/em&gt;. &lt;a href=&#34;https://book.mynavi.jp/ec/products/detail/id=123641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田秀樹 (2020). &lt;strong&gt;PythonではじめるKaggleスタートブック&lt;/strong&gt;. &lt;em&gt;講談社&lt;/em&gt;. &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5190067.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;http://books.gotop.com.tw/v_ACD021100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;Chinese&#34; class=&#34;pub-link mr-1&#34;&gt;Chinese&lt;/a&gt; &lt;a href=&#34;http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&amp;amp;mallGb=KOR&amp;amp;barcode=9791190665841&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;Korean&#34; class=&#34;pub-link mr-1&#34;&gt;Korean&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Hallucination analysis &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-book-open mr-1&#34;&gt;&lt;/i&gt;Journal of NLP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Revisiting news recommendation &lt;a href=&#34;https://doi.org/10.1007/978-3-031-97144-0_16&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;badge badge-pill badge-light venue-badge mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll mr-1&#34;&gt;&lt;/i&gt;NLDB 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website:
+&lt;ul&gt;
+&lt;li&gt;Weekly Kaggle News &lt;a href=&#34;https://weeklykagglenews.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Everyday Kaggle News &lt;a href=&#34;https://upura.github.io/everyday-kaggle-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hosting competitions:
+&lt;ul&gt;
+&lt;li&gt;Kaggle Days Tokyo 2019, Dec 2019. &lt;a href=&#34;https://hack.nikkei.com/blog/report_kaggle_days_tokyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JOAI2025, April 2025. &lt;a href=&#34;https://connpass.com/event/358952/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JAPAN AI CUP 2025 予測部門, Feb 2026. &lt;a href=&#34;https://kikaku.ai-gakkai.or.jp/article/about_japanaicup&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Results as a participant &lt;a href=&#34;https://upura.github.io/projects/data_science_competitions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Committee:
+&lt;ul&gt;
+&lt;li&gt;一般社団法人人工知能学会企画委員会（コンペティション担当）, April 2024 -. &lt;a href=&#34;https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;地球惑星科学における AI 研究会専門委員, April 2024 -. &lt;a href=&#34;https://sites.google.com/jpgu.org/geosciai2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;国際人工知能オリンピック（IOAI）日本委員会スタッフ, Dec 2024 -. &lt;a href=&#34;https://ioai-japan.org/about-ioai-japan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 &lt;p&gt;You can see 
