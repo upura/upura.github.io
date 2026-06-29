@@ -17,7 +17,11 @@
       <link>https://upura.github.io/projects/publications/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/publications/</guid>
-      <description>&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;pre-print&#34;&gt;Pre-print&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kazuma Iwamoto, Kazumasa Omura, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). An Empirical Analysis of Factual Errors in Human-Written Text and its Application. &lt;a href=&#34;https://arxiv.org/abs/2606.27959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;arXiv&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;ai ai-arxiv&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;journal-referred&#34;&gt;Journal (Referred)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号.&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;code&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
