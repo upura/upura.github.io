@@ -499,7 +499,54 @@ See also
       <link>https://upura.github.io/projects/materials/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/materials/</guid>
-      <description>&lt;h2 id=&#34;-books&#34;&gt;📚 Books&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;-writing&#34;&gt;✍️ Writing&lt;/h2&gt;
+&lt;div class=&#34;material-grid&#34;&gt;
+&lt;a href=&#34;https://weeklykagglenews.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-envelope-open-text&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Weekly Kaggle News&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Weekly newsletter on Kaggle and data science, written in Japanese since 2019.&lt;/span&gt;
+    &lt;span class=&#34;material-card-badges&#34;&gt;&lt;span class=&#34;material-badge&#34;&gt;3,000&amp;#43; subscribers&lt;/span&gt;&lt;span class=&#34;material-badge&#34;&gt;Featured by Kaggle official&lt;/span&gt;&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://upura.github.io/everyday-kaggle-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-envelope-open-text&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Everyday Kaggle News&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Daily updates on Kaggle competitions and discussions.&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://upura.hatenablog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-blog&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Hatena Blog&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Personal tech blog on data science, NLP, and machine learning.&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-pen-nib&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Popular introductory guide to Kaggle on Qiita.&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;http://www.todaishimbun.org/author/shhrshtr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;University of Tokyo Press&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Articles written as a student journalist.&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://hack.nikkei.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;
+  &lt;span class=&#34;material-card-body&#34;&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Hack the NIKKEI&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Engineering blog of Nikkei, Inc.&lt;/span&gt;
+  &lt;/span&gt;
+&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;-books&#34;&gt;📚 Books&lt;/h2&gt;
 &lt;div class=&#34;material-grid&#34;&gt;
 &lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;&lt;/span&gt;
@@ -543,24 +590,10 @@ See also
   &lt;/span&gt;
 &lt;/a&gt;
 
-&lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
+&lt;a href=&#34;https://doi.org/10.1527/tjsai.41-4_AN40-F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;自然言語処理, 31巻, 4号, 2024.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://aclanthology.org/2024.inlg-main.14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;INLG 2024.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3583780.3615151&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;CIKM 2023.&lt;/span&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;人工知能学会論文誌, 41巻, 4号, 2026.&lt;/span&gt;
   &lt;/span&gt;
 &lt;/a&gt;
 
@@ -568,61 +601,6 @@ See also
 
 &lt;p&gt;→ Full list: 
 &lt;a href=&#34;https://upura.github.io/projects/publications/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-writing&#34;&gt;✍️ Writing&lt;/h2&gt;
-&lt;div class=&#34;material-grid&#34;&gt;
-&lt;a href=&#34;https://weeklykagglenews.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-envelope-open-text&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Weekly Kaggle News&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Weekly newsletter on Kaggle and data science, written in Japanese since 2019.&lt;/span&gt;
-    &lt;span class=&#34;material-card-badges&#34;&gt;&lt;span class=&#34;material-badge&#34;&gt;3,000&amp;#43; subscribers&lt;/span&gt;&lt;span class=&#34;material-badge&#34;&gt;Featured by Kaggle official&lt;/span&gt;&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://upura.github.io/everyday-kaggle-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-envelope-open-text&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Everyday Kaggle News&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Daily updates on Kaggle competitions and discussions.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://upura.hatenablog.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-blog&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Hatena Blog&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Personal tech blog on data science, NLP, and machine learning.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://qiita.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-pen-nib&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Qiita&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Technical articles including a popular introductory guide to Kaggle.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;http://www.todaishimbun.org/author/shhrshtr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;University of Tokyo Press&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Articles written as a student journalist.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://hack.nikkei.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-newspaper&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Hack the NIKKEI&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Engineering blog of Nikkei, Inc.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Weekly Kaggle News was featured by 
-&lt;a href=&#34;https://twitter.com/kaggle/status/1214931423003414530?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle official&lt;/a&gt; and 
-&lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atmarkit.co.jp&lt;/a&gt;. Previous platform was 
-&lt;a href=&#34;https://www.getrevue.co/profile/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revue&lt;/a&gt;, but migrated to Substack in 2023.&lt;/li&gt;
-&lt;li&gt;Popular Qiita article: 
-&lt;a href=&#34;https://qiita.com/upura/items/3c10ff6fed4e7c3d70f0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggleに登録したら次にやること ～ これだけやれば十分闘える！Titanicの先へ行く入門 10 Kernel ～&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;-speaking&#34;&gt;🎤 Speaking&lt;/h2&gt;
 &lt;div class=&#34;material-grid&#34;&gt;
 &lt;a href=&#34;https://speakerdeck.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
@@ -702,13 +680,6 @@ See also
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/#media-coverage&#34;&gt;32 media appearances&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-code--oss&#34;&gt;💻 Code / OSS&lt;/h2&gt;
 &lt;div class=&#34;material-grid&#34;&gt;
-&lt;a href=&#34;https://github.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;GitHub: upura&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Personal GitHub profile.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
 &lt;a href=&#34;https://github.com/Nikkei/fast-mia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
