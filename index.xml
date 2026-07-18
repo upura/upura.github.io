@@ -782,7 +782,7 @@ See also
     </item>
     
     <item>
-      <title>DevRel</title>
+      <title>DevRel materials</title>
       <link>https://upura.github.io/projects/materials/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://upura.github.io/projects/materials/</guid>
@@ -838,29 +838,28 @@ See also
 &lt;a href=&#34;https://www.kodansha.co.jp/book/products/0000420398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Kaggleではじめる大規模言語モデル入門&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;自然言語処理〈実践〉プログラミング. Kodansha, 2026. Co-authored.&lt;/span&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Kaggleではじめる大規模言語モデル入門&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;講談社, 2026. 共著.&lt;/span&gt;
   &lt;/span&gt;
 &lt;/a&gt;
 
 &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Kaggleに挑む深層学習プログラミングの極意&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Kodansha Scientific, 2023. Co-authored.&lt;/span&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Kaggleに挑む深層学習プログラミングの極意&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;講談社, 2023. 共著.&lt;/span&gt;
   &lt;/span&gt;
 &lt;/a&gt;
 
 &lt;a href=&#34;https://book.mynavi.jp/ec/products/detail/id=123641&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Mynavi, 2021. Japanese translation.&lt;/span&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;Kaggle Grandmasterに学ぶ 機械学習 実践アプローチ&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;マイナビ出版, 2021. 訳.&lt;/span&gt;
   &lt;/span&gt;
 &lt;/a&gt;
 
 &lt;a href=&#34;https://www.kspub.co.jp/book/detail/5190067.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
   &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt;&lt;/span&gt;
   &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;PythonではじめるKaggleスタートブック&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Kodansha, 2020. Co-authored.&lt;/span&gt;
-    &lt;span class=&#34;material-card-badges&#34;&gt;&lt;span class=&#34;material-badge&#34;&gt;Chinese &amp;amp; Korean translations&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&#34;material-card-title&#34;&gt;PythonではじめるKaggleスタートブック&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;講談社, 2020. 共著.&lt;/span&gt;
   &lt;/span&gt;
 &lt;/a&gt;
 
@@ -888,34 +887,22 @@ See also
 
 &lt;p&gt;→ Full list: 
 &lt;a href=&#34;https://upura.github.io/projects/publications/&#34;&gt;Publications&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-speaking&#34;&gt;🎤 Speaking&lt;/h2&gt;
-&lt;div class=&#34;material-grid&#34;&gt;
-&lt;a href=&#34;https://speakerdeck.com/upura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fab fa-speaker-deck&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;Speaker Deck&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Slides from talks and lectures.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;a href=&#34;https://www.youtube.com/channel/UCX1kD7i5JvvRIZdo9xjlakw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
-  &lt;span class=&#34;material-card-icon&#34;&gt;&lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-  &lt;span class=&#34;material-card-body&#34;&gt;
-    &lt;span class=&#34;material-card-title&#34;&gt;YouTube&lt;/span&gt;&lt;span class=&#34;material-card-desc&#34;&gt;Recorded talks and tutorials.&lt;/span&gt;
-  &lt;/span&gt;
-&lt;/a&gt;
-
-&lt;/div&gt;
-
-&lt;h3 id=&#34;selected-talks&#34;&gt;Selected Talks&lt;/h3&gt;
+&lt;h2 id=&#34;-selected-talks&#34;&gt;🎤 Selected Talks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;情報技術の社会実装に向けた応用と課題：ニュースメディアの事例から&lt;/strong&gt;, 第9回応用数理・AIセミナー, Oct 1st, 2025. &lt;a href=&#34;https://speakerdeck.com/upura/appmech-jsce-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;slide&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;far fa-images&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://appmech-jsce.com/ai-seminar-detail/%e7%ac%ac9%e5%9b%9e%e5%bf%9c%e7%94%a8%e6%95%b0%e7%90%86%e3%83%bbai%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;マルチモーダル AI 実装の課題と解決策&lt;/strong&gt;, Developers X Summit 2024, Nov 14th, 2024. &lt;a href=&#34;https://speakerdeck.com/upura/developer-x-summit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;slide&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;far fa-images&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://event.shoeisha.jp/devsumi/20241114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ニュースメディアにおける事前学習済みモデルの可能性と課題&lt;/strong&gt;, 第27回情報論的学習理論ワークショップ (IBIS2024) 企画セッション3：ビジネスと機械学習, Nov 7th, 2024. &lt;a href=&#34;https://speakerdeck.com/upura/ibis2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;slide&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;far fa-images&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://ibisml.org/ibis2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;「巨人の肩の上」で自作ライブラリを作る技術&lt;/strong&gt;, PyCon JP 2024, Sep 28th, 2024. &lt;a href=&#34;https://speakerdeck.com/upura/pyconjp2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;slide&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;far fa-images&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://2024.pycon.jp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ニュースメディアでの機械学習活用事例 ー Kaggle コンペ開催を題材にー&lt;/strong&gt;, Google Developers ML Summit, Dec 3rd, 2020. &lt;a href=&#34;https://upura.hatenablog.com/entry/2020/12/02/183400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;slide&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;far fa-images&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://cloudonair.withgoogle.com/events/google-mlsummit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;→ Full list: 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/&#34;&gt;75 talks&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-selected-media-coverage&#34;&gt;📰 Selected Media Coverage&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;INMA 30 Under 30: Shotaro Ishihara of Nikkei&lt;/strong&gt;, INMA, Sep 23rd, 2020. &lt;a href=&#34;https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Putting the (Gen AI) Puzzle Together&lt;/strong&gt;, FT Product &amp;amp; Technology, Sep 2nd, 2024. &lt;a href=&#34;https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選&lt;/strong&gt;, ITmedia, Jun 11st, 2020. &lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;→ Full list: 
+&lt;a href=&#34;https://upura.github.io/projects/talks_and_media/#media-coverage&#34;&gt;32 media appearances&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-community--events&#34;&gt;🌐 Community &amp;amp; Events&lt;/h2&gt;
 &lt;div class=&#34;material-grid&#34;&gt;
 &lt;a href=&#34;https://hack.nikkei.com/blog/report_kaggle_days_tokyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
@@ -957,14 +944,6 @@ See also
 
 &lt;p&gt;→ Full list: 
 &lt;a href=&#34;https://upura.github.io/projects/talks_and_media/#event-organization&#34;&gt;Event Organization&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-selected-media-coverage&#34;&gt;📰 Selected Media Coverage&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;INMA 30 Under 30: Shotaro Ishihara of Nikkei&lt;/strong&gt;, INMA, Sep 23rd, 2020. &lt;a href=&#34;https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-30-under-30-shotaro-ishihara-of-nikkei&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Putting the (Gen AI) Puzzle Together&lt;/strong&gt;, FT Product &amp;amp; Technology, Sep 2nd, 2024. &lt;a href=&#34;https://medium.com/ft-product-technology/putting-the-gen-ai-puzzle-together-9470c3aaef7a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;「機械学習の最先端」を効率的に情報収集！　おすすめのメルマガ3選&lt;/strong&gt;, ITmedia, Jun 11st, 2020. &lt;a href=&#34;https://www.atmarkit.co.jp/ait/articles/2006/11/news016.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;website&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-globe&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;→ Full list: 
-&lt;a href=&#34;https://upura.github.io/projects/talks_and_media/#media-coverage&#34;&gt;32 media appearances&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;-code--oss&#34;&gt;💻 Code / OSS&lt;/h2&gt;
 &lt;div class=&#34;material-grid&#34;&gt;
 &lt;a href=&#34;https://github.com/Nikkei/fast-mia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;material-card&#34;&gt;
