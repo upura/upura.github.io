@@ -5,12 +5,27 @@
     <link>https://upura.github.io/news/</link>
       <atom:link href="https://upura.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/img/avatar.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>(2026.09.03) Accepted at EMNLP 2026</title>
+      <link>https://upura.github.io/news/260903/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/260903/</guid>
+      <description>&lt;p&gt;Happy to share that our three papers have been accepted at the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Tomoyuki Kajiwara (2026). &lt;strong&gt;Subjective and Hierarchical Annotation of Text Difficulty in Japanese&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Kazuma Iwamoto, Kazumasa Omura, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)&lt;/em&gt;. [
+&lt;a href=&#34;https://arxiv.org/abs/2606.27959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
+&lt;li&gt;Tomoaki Yasuda and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>(2026.04.27) Accepted at ACL 2026 Demo</title>
