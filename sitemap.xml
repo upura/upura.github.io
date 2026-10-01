@@ -2,29 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://upura.github.io/projects/research_interest/</loc>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
+  </url><url>
+    <loc>https://upura.github.io/projects/talks_and_media/</loc>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
+  </url><url>
+    <loc>https://upura.github.io/projects/publications/</loc>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
+  </url><url>
+    <loc>https://upura.github.io/projects/materials/</loc>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
+  </url><url>
+    <loc>https://upura.github.io/projects/data_science_competitions/</loc>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
+  </url><url>
     <loc>https://upura.github.io/news/260903/</loc>
-    <lastmod>2026-09-03T18:54:48+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/tag/newsfeed/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/tags/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/260831/</loc>
     <lastmod>2026-09-15T20:26:13-07:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/260427/</loc>
-    <lastmod>2026-04-29T07:18:12+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/260424/</loc>
-    <lastmod>2026-04-29T07:19:30+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/260416/</loc>
     <lastmod>2026-04-28T13:20:44+09:00</lastmod>
@@ -90,7 +105,7 @@
     <lastmod>2026-04-29T07:35:54+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/tag/kaggle/</loc>
-    <lastmod>2026-04-29T07:53:07+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/news/221220/</loc>
     <lastmod>2026-04-29T07:35:54+09:00</lastmod>
@@ -99,31 +114,16 @@
     <lastmod>2026-04-29T07:35:54+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/projects/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
-  </url><url>
-    <loc>https://upura.github.io/projects/publications/</loc>
-    <lastmod>2026-09-11T10:21:43+09:00</lastmod>
-  </url><url>
-    <loc>https://upura.github.io/projects/talks_and_media/</loc>
-    <lastmod>2026-09-15T20:26:13-07:00</lastmod>
-  </url><url>
-    <loc>https://upura.github.io/projects/research_interest/</loc>
-    <lastmod>2026-07-18T09:23:42+09:00</lastmod>
-  </url><url>
-    <loc>https://upura.github.io/projects/data_science_competitions/</loc>
-    <lastmod>2026-04-29T07:53:07+09:00</lastmod>
-  </url><url>
-    <loc>https://upura.github.io/projects/materials/</loc>
-    <lastmod>2026-08-02T20:45:12+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/authors/</loc>
-    <lastmod>2026-09-28T12:03:35+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url><url>
     <loc>https://upura.github.io/categories/</loc>
   </url><url>
     <loc>https://upura.github.io/publication_types/</loc>
   </url><url>
     <loc>https://upura.github.io/author/shotaro-ishihara/</loc>
-    <lastmod>2026-09-28T12:03:35+09:00</lastmod>
+    <lastmod>2026-10-01T12:48:43+09:00</lastmod>
   </url>
 </urlset>

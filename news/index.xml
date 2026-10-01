@@ -7,7 +7,7 @@
     <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://upura.github.io/img/avatar.png</url>
+      <url>https://upura.github.io/images/icon_hu_2f0b2b46f66475b9.png</url>
       <title>News</title>
       <link>https://upura.github.io/news/</link>
     </image>
@@ -22,7 +22,8 @@
 &lt;li&gt;Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Tomoyuki Kajiwara (2026). &lt;strong&gt;Subjective and Hierarchical Annotation of Text Difficulty in Japanese&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;Kazuma Iwamoto, Kazumasa Omura, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)&lt;/em&gt;. [
 &lt;a href=&#34;https://arxiv.org/abs/2606.27959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
-&lt;li&gt;Tomoaki Yasuda and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Tomoaki Yasuda and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)&lt;/em&gt;. [
+&lt;a href=&#34;https://arxiv.org/abs/2609.09569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -46,6 +47,7 @@ To help boost AI adoption in Japan, I&amp;rsquo;ll normally be working from Japa
       <description>&lt;p&gt;Happy to share that our paper has been accepted at the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hiromu Takahashi, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Fast-MIA: Efficient and Scalable Membership Inference for LLMs&lt;/strong&gt;. &lt;em&gt;Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) (System Demonstrations)&lt;/em&gt;. [
+&lt;a href=&#34;https://aclanthology.org/2026.acl-demo.9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ] [
 &lt;a href=&#34;https://arxiv.org/abs/2510.23074&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -58,7 +60,8 @@ To help boost AI adoption in Japan, I&amp;rsquo;ll normally be working from Japa
       <guid>https://upura.github.io/news/260424/</guid>
       <description>&lt;p&gt;Happy to share that our paper has been accepted at Transactions of the Japanese Society for Artificial Intelligence.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号.&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号. [
+&lt;a href=&#34;https://doi.org/10.1527/tjsai.41-4_AN40-F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; ]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -7,21 +7,10 @@
     <description>Kaggle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://upura.github.io/img/avatar.png</url>
+      <url>https://upura.github.io/images/icon_hu_2f0b2b46f66475b9.png</url>
       <title>Kaggle</title>
       <link>https://upura.github.io/tag/kaggle/</link>
     </image>
-    
-    <item>
-      <title>(2023.01.01) Publish a Japanese Kaggle Book</title>
-      <link>https://upura.github.io/news/230101/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://upura.github.io/news/230101/</guid>
-      <description>&lt;p&gt;Happy to share that we will publish a new Japanese Kaggle book, focusing on deep learning with image and text. I authored chapters 1 and 2. Chapters 3-5 are the practices of image classification, image retrieval, and text classification, respectively.&lt;/p&gt;
-&lt;p&gt;[
-&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Data Science Competitions</title>
@@ -103,7 +92,7 @@
 &lt;a href=&#34;https://yans.anlp.jp/entry/yans2021hackathon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NLP若手の会 (YANS) 第16回シンポジウム ハッカソン&lt;/a&gt; &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;2nd&lt;/strong&gt; · Team · 2021&lt;/span&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://sigir-ecom.github.io/data-task.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGIR eCom&#39;21 Data Challenge Purchase Intent Prediction&lt;/a&gt; &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;3nd&lt;/strong&gt; · Team · 2021&lt;/span&gt;
+&lt;a href=&#34;https://sigir-ecom.github.io/data-task.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGIR eCom&#39;21 Data Challenge Purchase Intent Prediction&lt;/a&gt; &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;3rd&lt;/strong&gt; · Team · 2021&lt;/span&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://solafune.com/#/competitions/f03f39cc-597b-4819-b1a5-41479d4b73d6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solafune: 夜間光データから土地価格を予測&lt;/a&gt; &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;6th&lt;/strong&gt; · Solo · 2021&lt;/span&gt;
@@ -129,6 +118,17 @@
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;（エンジニアリング部門） &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;2nd&lt;/strong&gt; · Team · 2018&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2023.01.01) Publish a Japanese Kaggle Book</title>
+      <link>https://upura.github.io/news/230101/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/230101/</guid>
+      <description>&lt;p&gt;Happy to share that we will publish a new Japanese Kaggle book, focusing on deep learning with image and text. I authored chapters 1 and 2. Chapters 3-5 are the practices of image classification, image retrieval, and text classification, respectively.&lt;/p&gt;
+&lt;p&gt;[
+&lt;a href=&#34;https://www.kspub.co.jp/book/detail/5305133.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; ]&lt;/p&gt;
 </description>
     </item>
     
