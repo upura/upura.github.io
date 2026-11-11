@@ -5,7 +5,7 @@
     <link>https://upura.github.io/</link>
       <atom:link href="https://upura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shotaro Ishihara</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 Shotaro Ishihara</copyright><lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://upura.github.io/images/icon_hu_2f0b2b46f66475b9.png</url>
       <title>Shotaro Ishihara</title>
@@ -237,6 +237,7 @@ See also
       <guid>https://upura.github.io/projects/publications/</guid>
       <description>&lt;h2 id=&#34;journal-refereed&#34;&gt;Journal (Refereed)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;独自コーパスを用いた言語モデルの暗記リスク評価：日本語新聞記事による実践的分析&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 42巻, 1号.&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;大規模言語モデルの訓練データ暗記の研究動向&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 41巻, 4号. &lt;a href=&#34;https://doi.org/10.1527/tjsai.41-4_AN40-F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 村田栄樹, 中間康文, 高橋寛武 (2024). &lt;strong&gt;日本語ニュース記事要約支援に向けたドメイン特化事前学習済みモデルの構築と活用&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1717&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武, 白井穂乃 (2024). &lt;strong&gt;Semantic Shift Stability: 学習コーパス内の単語の意味変化を用いた事前学習済みモデルの時系列性能劣化の監査&lt;/strong&gt;. &lt;em&gt;自然言語処理&lt;/em&gt;, 31巻, 4号. &lt;a href=&#34;https://doi.org/10.5715/jnlp.31.1563&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Nikkei/semantic-shift-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;code&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
@@ -244,6 +245,8 @@ See also
 &lt;/ul&gt;
 &lt;h2 id=&#34;international-conference-refereed&#34;&gt;International Conference (Refereed)&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis&lt;/strong&gt;. &lt;em&gt;The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;News Formats as Structural Drivers of Exposure Diversity: Scheduled Editions vs. Continuous Feeds&lt;/strong&gt;. &lt;em&gt;The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Daisuke Maekawa, Kazumasa Omura, Sora Tarumoto, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, and Tomoyuki Kajiwara (2026). &lt;strong&gt;Subjective and Hierarchical Annotation of Text Difficulty in Japanese&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)&lt;/em&gt;. &lt;a href=&#34;https://aclanthology.org/2026.emnlp-main.926/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt; (acceptance rate: 0.15=2705/17661)&lt;/li&gt;
 &lt;li&gt;Kazuma Iwamoto, Kazumasa Omura, and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;An Empirical Analysis of Factual Errors in Human-Written Text and Its Application to Factual Error Detection&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Findings)&lt;/em&gt;. &lt;a href=&#34;https://aclanthology.org/2026.findings-emnlp.2337/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2606.27959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;arXiv&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;ai ai-arxiv&#34;&gt;&lt;/i&gt;&lt;/a&gt; (acceptance rate: 0.29=(2705 + 2480)/17661)&lt;/li&gt;
 &lt;li&gt;Tomoaki Yasuda and &lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications&lt;/strong&gt;. &lt;em&gt;Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026) (Industry Track)&lt;/em&gt;. &lt;a href=&#34;https://aclanthology.org/2026.emnlp-industry.236/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;paper&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;fas fa-scroll&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/abs/2609.09569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; title=&#34;arXiv&#34; class=&#34;pub-link mr-1&#34;&gt;&lt;i class=&#34;ai ai-arxiv&#34;&gt;&lt;/i&gt;&lt;/a&gt; (acceptance rate: 0.28=265/931)&lt;/li&gt;
@@ -687,6 +690,31 @@ Other talks and media coverage can be found
 &lt;li&gt;
 &lt;a href=&#34;https://upura.hatenablog.com/entry/2018/10/07/222150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ベースボール×データ ハッカソン&lt;/a&gt;（エンジニアリング部門） &lt;span class=&#34;compe-badge mr-1&#34;&gt;&lt;strong&gt;2nd&lt;/strong&gt; · Team · 2018&lt;/span&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2026.11.04) Accepted at Transactions of JSAI</title>
+      <link>https://upura.github.io/news/261104/</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/261104/</guid>
+      <description>&lt;p&gt;Happy to share that our paper has been accepted at Transactions of the Japanese Society for Artificial Intelligence.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;石原祥太郎&lt;/u&gt;, 高橋寛武 (2026). &lt;strong&gt;独自コーパスを用いた言語モデルの暗記リスク評価：日本語新聞記事による実践的分析&lt;/strong&gt;. &lt;em&gt;人工知能学会論文誌&lt;/em&gt;, 42巻, 1号.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2026.11.03) Accepted at ABCSS 2026</title>
+      <link>https://upura.github.io/news/261103/</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://upura.github.io/news/261103/</guid>
+      <description>&lt;p&gt;Happy to share that our two papers have been accepted at the 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;Shotaro Ishihara&lt;/u&gt; (2026). &lt;strong&gt;Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis&lt;/strong&gt;. &lt;em&gt;The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Kaho Suzuki, Masaki Chujyo, Fujio Toriumi, &lt;u&gt;Shotaro Ishihara&lt;/u&gt;, Ryo Namiki (2026). &lt;strong&gt;News Formats as Structural Drivers of Exposure Diversity: Scheduled Editions vs. Continuous Feeds&lt;/strong&gt;. &lt;em&gt;The 11th International Workshop on Application of Big Data for Computational Social Science (ABCSS2026).&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
